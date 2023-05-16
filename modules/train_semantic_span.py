@@ -16,8 +16,6 @@ from helpers import find_best_checkpoint, load_config, set_seed
 from pytorch_lightning import Trainer, callbacks
 from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 
-from data import read_data, split_train_valid, PairData, split_data
-
 from transformers import AutoConfig, AutoTokenizer, AutoModelForMaskedLM
 from BERT2span_semantic_disam import BERT2span
 

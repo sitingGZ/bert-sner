@@ -7,16 +7,13 @@ from typing import List, Dict, Tuple, Callable, Any, Optional, Union, Iterable
 import pytorch_lightning as pl
 from transformers.modeling_outputs import Seq2SeqLMOutput
 from transformers.file_utils import ModelOutput
-import torch
+
 from torch import nn
 import torch.nn.functional as F
-from torch import nn, Tensor
+from torch import nn
 from transformers import (AdamW, WEIGHTS_NAME, get_linear_schedule_with_warmup)
 
-from crf import CRF
-
 from helpers import tile, load_config
-
 
 class BERT2span(pl.LightningModule):
 
