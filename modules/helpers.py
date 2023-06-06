@@ -5,6 +5,7 @@ import torch
 import random
 import numpy as np
 import collections
+import matplotlib.pyplot as plt
 
 def robust_decode(bs):
     '''Takes a byte string as param and convert it into a unicode one.
@@ -187,8 +188,9 @@ def copy_word_embeddings(eng_embeddings, ger_embeddings, added_vocab, origin_voc
                 embeddings_to_use.word_embeddings.weight[new_idx].data = embeddings_to_drop.word_embeddings.weight[old_idx].detach().clone()
             except:
                 print("Token {} is not found in the vocab.".format(w))
+            
                 
-
+# Average the checkpoints of different seed or different sampling 
 def average_checkpoints(checkpoint_paths):
     """Loads checkpoints and returns a model with averaged weights.
     Args:
@@ -248,3 +250,148 @@ def average_checkpoints(checkpoint_paths):
             averaged_params[k] //= num_models
     new_state["state_dict"] = averaged_params
     return new_state
+
+
+# Heatmap utils
+def getRGB(c_tuple):
+ return "#%02x%02x%02x" % (int(c_tuple[0] * 255), int(c_tuple[1] * 255), int(c_tuple[2] * 255))
+
+
+def rescale_score_by_abs(score, max_score, min_score):
+ """
+ Normalize the relevance value (=score), accordingly to the extremal relevance values (max_score and min_score),
+ for visualization with a diverging colormap.
+ i.e. rescale positive relevance to the range [0.5, 1.0], and negative relevance to the range [0.0, 0.5],
+ using the highest absolute relevance for linear interpolation.
+ """
+
+ # CASE 1: positive AND negative scores occur --------------------
+ if max_score > 0 and min_score < 0:
+
+  if max_score >= abs(min_score):  # deepest color is positive
+   if score >= 0:
+    return 0.5 + 0.5 * (score / max_score)
+   else:
+    return 0.5 - 0.5 * (abs(score) / max_score)
+
+  else:  # deepest color is negative
+   if score >= 0:
+    return 0.5 + 0.5 * (score / abs(min_score))
+   else:
+    return 0.5 - 0.5 * (score / min_score)
+
+    # CASE 2: ONLY positive scores occur -----------------------------
+ elif max_score > 0 and min_score >= 0:
+  if max_score == min_score:
+   return 1.0
+  else:
+   return 0.5 + 0.5 * (score / max_score)
+
+ # CASE 3: ONLY negative scores occur -----------------------------
+ elif max_score <= 0 and min_score < 0:
+  if max_score == min_score:
+   return 0.0
+  else:
+   return 0.5 - 0.5 * (score / min_score)
+
+
+def span_word(word, score, colormap):
+ if score == None:
+  score = 0.5
+ return "<span style=\"background-color:" + getRGB(colormap(score)) + "\">" + word + "</span>"
+
+def relevance_heatmap(words, scores,cmap_name="bwr"):
+ """
+ Return word-level heatmap in HTML format,
+ with words being the list of words (as string),
+ scores the corresponding list of word-level relevance values,
+ and cmap_name the name of the matplotlib diverging colormap.
+ """
+
+ colormap = plt.get_cmap(cmap_name)
+
+ #try:
+ #  assert len(words) < len(scores)
+ #except:
+ # print(len(words), len(scores))
+ try:
+  max_s = max(scores)
+ except:
+  print("No max score")
+  max_s = 0
+  scores = [0] * len(words)
+
+ try:
+  min_s = min(scores)
+ except:
+  print("No min score")
+  min_s = 0
+  scores = [0] * len(words)
+
+ output_text = []
+
+ for  w ,s in zip(words, scores):
+    if s > 0.1:
+        score = rescale_score_by_abs(s, max_s, min_s)
+        output_text.append(span_word(w, score, colormap))
+    else:
+        output_text.append(w)
+ return ' '.join(output_text)
+
+
+def html_heatmap(words, scores,cmap_name="bwr"):
+ """
+ Return word-level heatmap in HTML format,
+ with words being the list of words (as string),
+ scores the corresponding list of word-level relevance values,
+ and cmap_name the name of the matplotlib diverging colormap.
+ """
+
+ colormap = plt.get_cmap(cmap_name)
+
+ #try:
+ # assert len(words) < len(scores)
+ #except:
+ # print(len(words), len(scores))
+ try:
+  max_s = max(scores)
+ except:
+  print("No max score")
+  max_s = 0
+  scores = [0] * len(words)
+
+ try:
+  min_s = min(scores)
+ except:
+  print("No min score")
+  min_s = 0
+  scores = [0] * len(words)
+
+ output_text = ""
+ scaled_scores = []
+ for idx, w in enumerate(words):
+  score = rescale_score_by_abs(scores[idx], max_s, min_s)
+  scaled_scores.append(score)
+  output_text = output_text + table_row(span_word(w, score, colormap))
+
+ return output_text, scaled_scores
+
+
+def table_row(span_word):
+ return '<td class="tg-0pky">{}</td>\n'.format(span_word)
+
+
+def html_table(words, scores_matrix):
+ # list of words, list of scores
+ assert len(scores_matrix)  == len(words)
+ # colormap  = plt.get_cmap(cmap_name)
+ # assert len(words)== len(scores_matrix)
+ output_text = '<table class="tg">\n '
+ for i in range(len(words)):
+  #output_text += '<tr><th class="tg-0pky">Retrieval score: {}</th>\n'.format( str(relevance[i])[:5])
+
+  output_text += html_heatmap(words[i], scores_matrix[i])
+  output_text += '</tr>\n'
+
+ output_text += "</table>\n"
+ return output_text

@@ -175,7 +175,7 @@ def main(config_file):
     #bronco_pairs = []
     train_data = []
     valid_data = []
-    seeds = [80]
+    seeds = [42, 99]
     for seed in seeds:
         torch.cuda.empty_cache()
         set_seed(seed=seed)
@@ -232,27 +232,14 @@ def main(config_file):
                     #set_seed(seed=42)
                     average_state = average_checkpoints(ckpt_paths)
                 
-                    #best_state_dict = torch.load(os.path.join(ckpt_dir, best_ckpt)) 
-                #bert2span.load_state_dict(best_state_dict['state_dict'])
-                #mlm_pretrained = True
-    
-                #for update_encoder in updates:    
-                # add sequence labels in to decoder vocabulary
-                #tokenizer.add_tokens(new_tokens)
+                   
                     save_path = configs['train']['save_path'].format(language, dataset_name, add_kldiv,freeze, name)
                 
                     #save_path = model_path.format(mlm_pretrained, mlm_training, name + '_update_encoder_{}_we_{}'.format(update_encoder, update_we))
                     if not os.path.exists(save_path):
                             os.mkdir(save_path)
 
-                #print('total_stages tran and valie', train_level_ids.keys(), valid_level_ids.keys())            
-                #batch_lengths = [40, 80]
-                #valid_batches = {i: [] for i in batch_lengths}
-              
-               
-                #for v_batch in valid_batches:
-                        
-
+                
                     tok_ids, attn_mask, targets,  sorted_indices  = _padding(valid_batches, pad_token_id=tokenizer.pad_token_id, training=True)
                             
                     current_v_dataset = TokenizationDataset(input_ids= tok_ids, targets = targets, attention_mask = attn_mask)
@@ -271,12 +258,9 @@ def main(config_file):
                           
                     shuffle(train_data)
                     for shot in shots:
-                        #current_train_ids = train_level_ids[stage]
-                        #current_valid_ids = valid_level_ids[stage]
+                        
                         r = 'seed_{}_round_{}_shot_{}'.format(seed,i, shot)
-                        #tokens = []
-                        #tags = []
-                        #label_masks = []
+                        
                     
                         train_batches = []
                         
@@ -297,7 +281,7 @@ def main(config_file):
                         trainer = Trainer(gpus=gpus, gradient_clip_val = 1.0, stochastic_weight_avg=True, max_epochs=max_epochs,callbacks=checkpoint_callback, precision=16)      
                     
                         trainer.fit(bert2span, train_dataset, valid_dataset)
-                                #print('Best model path of task {}'.format(task + round), checkpoint_callback.best_model_path)
+                             
                         torch.cuda.empty_cache()
 
 

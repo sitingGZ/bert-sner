@@ -5,19 +5,15 @@ import json
 from typing import List, Dict, Tuple, Callable, Any, Optional, Union, Iterable
 
 import pytorch_lightning as pl
-from transformers.modeling_outputs import Seq2SeqLMOutput
-from transformers.file_utils import ModelOutput
 
 from torch import nn
 import torch.nn.functional as F
 from torch import nn
 from transformers import (AdamW, WEIGHTS_NAME, get_linear_schedule_with_warmup)
 
-from helpers import tile, load_config
-
 class BERT2span(pl.LightningModule):
 
-    def __init__(self, configs, bert_model, tokenizer, vocab_type='wordpiece', freeze=False, add_kldiv= True):
+    def __init__(self, configs, bert_model, tokenizer, vocab_type='wordpiece', freeze=False, add_kldiv= False):
 
         super().__init__()
         config_dict = self._load_configs(configs)
@@ -93,42 +89,24 @@ class BERT2span(pl.LightningModule):
         :param batch_idx:
         :return:
         """
-        #print(len(batch))
-        #src_batch, sorted_idx = self._tokenize(batch)
-        # decoder_inputs_embeds for pointer input
-        #decoder_inputs_embeds = self.decoder_embed(trg_batch['input_ids'])
-        
-    
-        #loss = self(input_ids = src_batch['input_ids'], attention_mask = src_batch['attention_mask'],
-        #                        targets = src_batch['targets'],definition_hidden_mean = src_batch['definition_hidden_mean'] )
-        #
+     
         loss = self(**src_batch)
         self.log('train_loss', loss)
-        #self.log('probability(sigmoid)_train', p)
 
         return loss
 
     def validation_step(self, src_batch, batch_idx):
 
-        #src_batch, sorted_idx = self._tokenize(batch)
-        #loss = self(input_ids = src_batch['input_ids'], attention_mask = src_batch['attention_mask'],
-        #                        targets = src_batch['targets'],definition_hidden_mean = src_batch['definition_hidden_mean'] )
         loss = self(**src_batch)
         self.log('val_loss', loss)
-        #self.log('probability(sigmoid)_valid', p)
-        
+    
     def test_step(self, src_batch, batch_idx):
         
         #src_batch, sorted_idx = self._tokenize(batch)
 
-        loss= self(input_ids = src_batch['input_ids'], attention_mask = src_batch['attention_mask'], 
-                                labels = src_batch['labels'])
-        
-        
+        loss = self(**src_batch)
         self.log('test_loss', loss)
-        return loss
-
-       
+   
     def configure_optimizers(self):
         """
         :param config: training configs

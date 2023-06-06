@@ -27,12 +27,10 @@ ex4cds_labels_terms = {'Condition':'Zeichen oder Symptom',
                  'HealthState':'Gesunder Zustand', 
                  'Measure':'Quantitatives Konzept', 
                  'Medication': 'Pharmakologische Substanz',
-                 'Process':'Pathologische Funktion', 
+                 'Process':'Physiologische Funktion', 
                  'TimeInfo':'Zeitliches Konzept'}
 
 ex4cds_labels = list(ex4cds_labels_terms.keys())
-
-
 
 from helpers import remove_umlaut
 
@@ -58,7 +56,6 @@ def ex4cds_token_and_tag_pair(text, anns, exception = ['Temporal', 'Other', 'Con
                     anns_idx[current_begin] = {'begin': current_begin, 'end': current_end, 'label': label[0], 'text': t}
                     current_begin = current_end + 1
                     
-   
     tokens = tokenize_text(text)
     words = [v['text'] for i, v in tokens.items()]
     tags = ['O'] * len(tokens)
@@ -78,14 +75,7 @@ def tokenize_and_tagging_ex4cds(seq_label_pair, tokenizer, label_words):
     targets = {}
     
     for t, input_tokens in label_tokens.items():
-        #label_word = label_words[label]
-        #print(label_word)
-        #input_tokens = tokenizer.encode(label_word)
-        #print(tokenizer.batch_decode(input_tokens))
-        #current_target = [1] * len(input_tokens)
-        #current_tags = [0]
-        #current_tags += [1]* (len(input_tokens)-2)
-        #current_tags += [0]
+ 
         label_has_tags = False
         label_tags_none = [0] * len(input_tokens)
         label_tags_true  = [0]
@@ -199,8 +189,7 @@ def main(config_file):
     #files =  os.listdir(conll_train_path)
 
     
-    
-    seeds = [42]
+    seeds = [42, 99]
     #print('train and valid data amount', len(train_data), len(valid_data) )
     for seed in seeds:
         torch.cuda.empty_cache()
@@ -217,12 +206,6 @@ def main(config_file):
             valid_data = []
     
     
-            #ex4cds_path = "/ds/text/iml_liang/Ex4CDS_finalAnnotation/finalAnnotation/2/"
-            #ex4cds_test_pairs = []
-            #sections = os.listdir(ex4cds_path)
-            #for s in sections:
-                #path_sec = ex4cds_path + s
-                #print(s)
             files = [f.split('.')[0] for f in os.listdir(ex4cds_path) if '.' in f]
             print(len(files))
             split_train_valid = int(len(files) * 0.7)
@@ -274,48 +257,19 @@ def main(config_file):
         
                     bert2span = BERT2span(configs, bertMLM, tokenizer, freeze=freeze, add_kldiv=False)
                 
-               
-                    # Only update embeddings in step2
-                    #step2_path = deepcopy(ckpt_paths['step2']).format(name)
-                    #step2_path = deepcopy(ckpt_paths['step2']).format( param[0], param[1], param[2])
-                
-                    #step2_data_path = deepcopy(ckpt_paths['data_dir_step2']).format(seed)
-
-                    #ckpt_dir = os.path.join(step2_path, step2_data_path)
-                    #assert os.path.exists(ckpt_dir), "Check step2 model path {}".format(step2_path) 
-                    #assert len(os.listdir(ckpt_dir)) >=1, "Check ckpt_dir {}".format(ckpt_dir)
-                    #ckpt_path = "bert2span_seed_42_round_{}_val_batch_{}"
-                
-                
-                    #best_state_dict = torch.load(os.path.join(ckpt_dir, best_ckpt)) 
-                    #bert2span.load_state_dict(best_state_dict['state_dict'])
-                    #mlm_pretrained = True
-    
-                    #for update_encoder in updates:    
-                    # add sequence labels in to decoder vocabulary
-                    #tokenizer.add_tokens(new_tokens)
                     save_path = configs['train']['save_path'].format(language, dataset_name, add_kldiv,freeze, name)
                 
                     #save_path = model_path.format(mlm_pretrained, mlm_training, name + '_update_encoder_{}_we_{}'.format(update_encoder, update_we))
                     if not os.path.exists(save_path):
                             os.mkdir(save_path)
 
-                    #print('total_stages tran and valie', train_level_ids.keys(), valid_level_ids.keys())            
-                    #batch_lengths = [40, 80]
-                    #valid_batches = {i: [] for i in batch_lengths}
-                    
-               
-                #for v_batch in valid_batches:
-                        
+     
 
                     tok_ids, attn_mask, targets,  sorted_indices  = _padding(valid_batches, pad_token_id=tokenizer.pad_token_id, training=True)
                             
                     current_v_dataset = TokenizationDataset(input_ids= tok_ids, targets = targets, attention_mask = attn_mask)
                     valid_dataset = batch_gen(current_v_dataset, batch_size, num_workers=2)
-                    #print('valid_batch size and amount ', maxlen, len(v_batch))
-                    #    else:
-                    #        print('no batch in current stage, current_maxlen and len of batch', stage, maxlen, len(v_batch) )
-
+             
                 
                     if 'no_pretrained' not in save_path:
                         bert2span.load_state_dict(average_state['state_dict'])
