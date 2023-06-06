@@ -1,2 +1,3 @@
-# bert-sner
-Repository for clinical information extraction with bert-sner.
+# BERT-SNER
+Repository for clinical information extraction with BERT-SNER.
+
