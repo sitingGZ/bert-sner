@@ -1,0 +1,7 @@
+0	0	rasch
+6	1	progredientes
+20	2	Nierenversagen,
+36	3	hohe
+41	4	PU
+44	5	(>4g/gKrea),
+57	6	DSA.

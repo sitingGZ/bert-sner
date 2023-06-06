@@ -1,0 +1,3 @@
+0	0	hohe
+5	1	IS,
+9	2	Alter,Morbiditaet

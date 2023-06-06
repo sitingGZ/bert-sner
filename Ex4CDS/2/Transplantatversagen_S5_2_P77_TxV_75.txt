@@ -1,0 +1,14 @@
+0	0	progrediente
+13	1	Nierenfunktionsverschlechterung,
+46	2	vorrangig
+56	3	kardiales
+66	4	Problem,
+75	5	intermitt.
+86	6	HD,
+90	7	rezidiv.
+99	8	Infekte,
+108	9	Harnstauung
+120	10	der
+124	11	TX
+127	12	Niere
+133	13	vorbeschrieben

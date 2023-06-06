@@ -1,0 +1,13 @@
+0	0	Aktuell
+8	1	Cefuroxim,
+19	2	da
+22	3	chronische
+33	4	Gallenblasenentzuendung.
+57	5	In
+60	6	der
+64	7	ambulanten
+75	8	Sonographie
+87	9	vom
+91	10	29.05.
+98	11	V.a
+102	12	GB-Empyem.

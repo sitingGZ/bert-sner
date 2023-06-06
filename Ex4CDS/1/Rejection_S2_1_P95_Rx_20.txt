@@ -1,0 +1,11 @@
+0	0	keine
+6	1	Kreatininspruenge,
+24	2	zum
+28	3	Zensurzeitpunkt
+44	4	deutlich
+53	5	besseres
+62	6	Kreatinin
+72	7	als
+76	8	vorheriger
+87	9	7-Jahre
+95	10	Verlauf

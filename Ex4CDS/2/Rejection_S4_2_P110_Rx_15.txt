@@ -1,0 +1,11 @@
+0	0	Tx
+3	1	vor
+7	2	3
+9	3	Wochen,
+17	4	5
+19	5	MM,
+23	6	Krea
+28	7	tendenziell
+40	8	fallend,
+49	9	maessige
+56	10	Proteinurie

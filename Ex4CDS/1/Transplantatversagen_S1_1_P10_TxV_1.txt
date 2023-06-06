@@ -1,0 +1,8 @@
+0	0	aktuell
+8	1	keine
+14	2	Gruende
+21	3	fuer
+25	4	Tx
+28	5	Verlust
+36	6	ausser
+42	7	unvorhergesehenes.

@@ -1,0 +1,11 @@
+0	0	gutes
+6	1	Krea
+11	2	Ausgangsniveau,
+27	3	aktuell
+35	4	steigende
+45	5	Retentionswerte,
+62	6	a.e.
+67	7	im
+70	8	Rahmen
+77	9	des
+81	10	Infekts

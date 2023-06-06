@@ -1,0 +1,9 @@
+0	0	stabile
+8	1	NTX
+12	2	3
+14	3	Jahre
+20	4	nach
+25	5	TX,
+29	6	Donoralter
+40	7	47,
+44	8	MM1

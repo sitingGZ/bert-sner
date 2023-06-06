@@ -1,0 +1,10 @@
+0	0	wegen
+6	1	pulmonaler
+17	2	VE
+20	3	(
+22	4	COPD)
+28	5	etwas
+34	6	hoeheres
+42	7	Risiko
+49	8	fuer
+53	9	Infektionen.

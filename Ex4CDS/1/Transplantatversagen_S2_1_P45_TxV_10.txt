@@ -1,0 +1,9 @@
+0	0	Kreatinin
+10	1	seit
+15	2	3
+17	3	Monaten
+25	4	stabil
+32	5	bei
+36	6	1,5
+40	7	ohne
+45	8	Progredienz

@@ -1,0 +1,6 @@
+0	0	Abfall
+7	1	eGFR,
+13	2	Zunahme
+21	3	der
+25	4	Proteinurie,
+38	5	DSA.

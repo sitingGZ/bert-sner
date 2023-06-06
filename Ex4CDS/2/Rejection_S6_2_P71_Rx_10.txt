@@ -1,0 +1,8 @@
+0	0	unklare
+8	1	hohe
+13	2	Cya
+17	3	Spiegel
+25	4	-
+27	5	Rejektion
+37	6	eher
+42	7	unwahrscheinlich.

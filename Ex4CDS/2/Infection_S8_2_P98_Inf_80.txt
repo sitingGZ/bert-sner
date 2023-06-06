@@ -1,0 +1,8 @@
+0	0	letzte
+7	1	Hospitalisierung
+24	2	bei
+28	3	Infekt
+35	4	vor
+39	5	kurzem,
+47	6	steigende
+57	7	Infektwerte

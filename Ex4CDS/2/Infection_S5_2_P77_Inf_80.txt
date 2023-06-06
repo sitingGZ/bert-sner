@@ -1,0 +1,14 @@
+0	0	rezidivierend
+14	1	hohes
+20	2	Infektniveau,
+34	3	Z.n.
+39	4	kard.
+45	5	Dekomp.,
+54	6	Stauungspneumonie,
+73	7	rezidiv.
+82	8	HWI,
+87	9	keine
+93	10	Reduktion
+103	11	IS
+106	12	bei
+110	13	DSA

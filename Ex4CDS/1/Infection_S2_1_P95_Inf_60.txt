@@ -1,0 +1,8 @@
+0	0	Z.n.
+5	1	Infektion,
+16	2	in
+19	3	diesem
+26	4	Fall
+31	5	Campylobacter
+45	6	mit
+49	7	Rezidivrisiko

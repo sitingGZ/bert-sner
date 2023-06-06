@@ -1,0 +1,17 @@
+0	0	kein
+5	1	Hinweis
+13	2	auf
+17	3	Infektgeschehen,
+34	4	crp
+38	5	norm,
+44	6	pat
+48	7	ist
+52	8	letzlich
+61	9	marathon
+70	10	gelaufen
+79	11	->
+82	12	geht
+87	13	anscheinend
+99	14	gesundheitlich
+114	15	subj.
+120	16	gut

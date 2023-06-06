@@ -1,0 +1,8 @@
+0	0	keine
+6	1	hinweise
+15	2	auf
+19	3	Infektion,
+30	4	crp
+34	5	neg.,
+40	6	leukos
+47	7	norm

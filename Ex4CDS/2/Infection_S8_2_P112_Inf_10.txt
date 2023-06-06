@@ -1,0 +1,6 @@
+0	0	stabil,
+8	1	leicht
+15	2	erhoehtes
+24	3	Risiko
+31	4	bei
+35	5	ADPKD

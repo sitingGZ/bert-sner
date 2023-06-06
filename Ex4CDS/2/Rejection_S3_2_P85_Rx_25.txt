@@ -1,0 +1,8 @@
+0	0	stabile
+8	1	Funktion,
+18	2	Albuminurie
+30	3	abnehmend,
+41	4	gute
+46	5	IS-Spiegel,
+58	6	Entscheidung
+71	7	Urbasonreduktion

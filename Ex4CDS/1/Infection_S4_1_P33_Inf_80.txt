@@ -1,0 +1,8 @@
+0	0	seit
+5	1	3d
+8	2	Fieber,
+16	3	AZ-Verschlechterung,
+37	4	Abgeschlagenheit,
+55	5	Fieber
+62	6	bis
+66	7	40°C

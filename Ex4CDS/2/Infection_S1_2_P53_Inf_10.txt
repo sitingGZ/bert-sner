@@ -1,0 +1,8 @@
+0	0	keine
+6	1	Infektkomplikationen
+27	2	in
+30	3	der
+34	4	Vergangenheit,
+49	5	jedoch
+56	6	jetzt
+62	7	Endoxan.

@@ -1,0 +1,8 @@
+0	0	26J
+4	1	nach
+9	2	NTX,
+14	3	bisher
+21	4	stabiler
+30	5	Verlauf,
+39	6	keine
+45	7	Rejektionen

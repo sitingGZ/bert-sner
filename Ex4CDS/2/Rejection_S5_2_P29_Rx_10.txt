@@ -1,0 +1,14 @@
+0	0	Rejektion
+10	1	nur
+14	2	kurz
+19	3	nach
+24	4	TX,
+28	5	aber
+33	6	reduzierte
+44	7	IS
+47	8	und
+51	9	Risiko
+58	10	infektgetriggerter
+77	11	Rejektion,
+88	12	keine
+94	13	HLA

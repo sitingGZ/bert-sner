@@ -1,0 +1,9 @@
+0	0	Fruehphase
+10	1	TX,
+14	2	DGF,
+19	3	BKV
+23	4	Nephropathie,
+37	5	aelterer
+45	6	Pat
+49	7	mit
+53	8	D.m.

@@ -1,0 +1,10 @@
+0	0	stabiler
+9	1	Tx
+12	2	Verlauf,
+21	3	keine
+27	4	Probleme
+36	5	bei
+40	6	der
+44	7	Spiegeleinstellung
+63	8	der
+67	9	Immunsup

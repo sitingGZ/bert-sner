@@ -1,0 +1,4 @@
+0	0	Z.n.
+5	1	Neubeginn
+15	2	einer
+21	3	Immunsupression

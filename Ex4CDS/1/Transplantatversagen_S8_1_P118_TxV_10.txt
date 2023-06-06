@@ -1,0 +1,12 @@
+0	0	Insgesamt
+10	1	Steady
+17	2	state
+23	3	bei
+27	4	Z.n.
+32	5	Rejektion
+42	6	und
+46	7	Behandlung
+57	8	mit
+61	9	Steroide
+70	10	und
+74	11	ATG

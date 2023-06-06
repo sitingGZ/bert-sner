@@ -1,0 +1,4 @@
+0	0	keine
+6	1	Hinweise,
+16	2	stabile
+24	3	Tx-Funktion

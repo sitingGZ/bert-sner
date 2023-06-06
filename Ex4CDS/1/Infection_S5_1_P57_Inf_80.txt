@@ -1,0 +1,7 @@
+0	0	rezidiv.
+9	1	Infektionen,
+22	2	Pneumonie,
+33	3	Urosepsis,
+44	4	4x
+47	5	in
+50	6	2012

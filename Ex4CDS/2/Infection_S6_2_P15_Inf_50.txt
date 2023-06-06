@@ -1,0 +1,12 @@
+0	0	ADPKD
+6	1	als
+10	2	Grunderkrankung,
+27	3	alter
+33	4	Mann,
+39	5	Z.n.
+44	6	PCA
+48	7	->
+51	8	suggeriert
+62	9	Anfaelligkeit
+75	10	fuer
+79	11	Infekte.

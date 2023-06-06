@@ -1,0 +1,6 @@
+0	0	aelterer
+8	1	Pat.,
+14	2	rezidiv.
+23	3	Diarrhoen,
+34	4	Infektepisode
+48	5	kuerzlich

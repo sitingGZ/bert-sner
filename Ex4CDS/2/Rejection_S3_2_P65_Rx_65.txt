@@ -1,0 +1,16 @@
+0	0	Krea
+5	1	schwankend,
+17	2	aktuell
+25	3	wieder
+32	4	steigend,
+42	5	immer
+48	6	wieder
+55	7	zu
+58	8	niedrige
+67	9	IS
+70	10	Spiegel
+78	11	gemssen,
+87	12	musste
+94	13	mehrfach
+103	14	erhoeht
+110	15	werden

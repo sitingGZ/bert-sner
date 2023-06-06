@@ -1,0 +1,7 @@
+0	0	Ntx
+4	1	vor
+8	2	1
+10	3	Monat,
+17	4	Kreatininverlauf
+34	5	noch
+39	6	fallend

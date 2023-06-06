@@ -1,0 +1,14 @@
+0	0	Krea
+5	1	stabil
+12	2	schlecht
+21	3	seit
+26	4	1
+28	5	Jahr
+33	6	bei
+37	7	rez.
+42	8	Infekten
+51	9	(eher
+57	10	Zeichen
+65	11	fuer
+69	12	zuviel
+76	13	Immunsup)

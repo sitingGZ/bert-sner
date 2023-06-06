@@ -1,0 +1,9 @@
+0	0	Alter,
+7	1	malnutriert,
+20	2	Prostatahyperplasie,
+41	3	kardial
+49	4	vorgeschaedigt,
+64	5	benoetigt
+73	6	CSU/HD
+80	7	zur
+84	8	Volumendepletion

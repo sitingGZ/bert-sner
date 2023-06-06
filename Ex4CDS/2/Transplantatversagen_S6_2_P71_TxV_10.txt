@@ -1,0 +1,14 @@
+0	0	eignetlich
+11	1	bisher
+18	2	keine
+24	3	groesseren
+33	4	Probleme,
+43	5	daher
+49	6	ist
+53	7	ein
+57	8	TX
+60	9	Versagen
+69	10	jetzt
+75	11	erstmla
+83	12	nicht
+89	13	anzuenhemen.

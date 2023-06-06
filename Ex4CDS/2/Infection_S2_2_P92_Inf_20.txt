@@ -1,0 +1,5 @@
+0	0	keine
+6	1	klinischen
+17	2	oder
+22	3	laborchemischen
+38	4	Infektzeichen

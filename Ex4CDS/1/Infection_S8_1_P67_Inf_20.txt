@@ -1,0 +1,8 @@
+0	0	Z.n.
+5	1	Leukopenie,
+17	2	allerdings
+28	3	in
+31	4	den
+35	5	letzten
+43	6	Monaten
+51	7	stabil

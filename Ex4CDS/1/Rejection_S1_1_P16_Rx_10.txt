@@ -1,0 +1,7 @@
+0	0	keine
+6	1	DSA,
+11	2	keine
+17	3	rejectionen
+29	4	in
+32	5	der
+36	6	Verhangenheit.

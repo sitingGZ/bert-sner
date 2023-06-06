@@ -1,0 +1,3 @@
+0	0	Hoch
+5	1	Dosis
+11	2	Steroide

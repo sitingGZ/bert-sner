@@ -1,0 +1,4 @@
+0	0	bisher
+7	1	keine
+13	2	Infektprobleme,
+29	3	jung

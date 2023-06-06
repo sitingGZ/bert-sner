@@ -1,0 +1,11 @@
+0	0	wenig
+6	1	Infekte
+14	2	bisher,
+22	3	jedoch
+29	4	aktuell
+37	5	erneut
+44	6	Predni-
+52	7	Gabe
+57	8	mit
+61	9	erhoehter
+70	10	Infektanfaelligkeit.

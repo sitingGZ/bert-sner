@@ -1,0 +1,11 @@
+0	0	Stabiles
+9	1	Krea,
+15	2	keine
+21	3	Proteinurie,
+34	4	allerdings
+45	5	Z.n.
+50	6	Leukopenie
+61	7	mit
+65	8	Modifizierung
+79	9	der
+83	10	IS

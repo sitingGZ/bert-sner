@@ -1,0 +1,17 @@
+0	0	Ich
+4	1	sehe
+9	2	in
+12	3	den
+16	4	Unterlagen
+27	5	zu
+30	6	dem
+34	7	Patienten
+44	8	keinen
+51	9	Hinweis
+59	10	auf
+63	11	ein
+67	12	erhoehtes
+76	13	Risisko
+84	14	fuer
+88	15	eine
+93	16	Rejektion.

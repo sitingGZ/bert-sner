@@ -1,0 +1,17 @@
+0	0	bereits
+8	1	an
+11	2	CVVHD,
+18	3	baseline
+27	4	Krea
+32	5	schon
+38	6	bei
+42	7	3,44
+47	8	also
+52	9	nicht
+58	10	viel
+63	11	"Reserve"
+73	12	daher
+79	13	Tx
+82	14	Verlust
+90	15	sehr
+95	16	wahscheinlich.

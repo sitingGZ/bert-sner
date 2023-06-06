@@ -1,0 +1,8 @@
+0	0	Chronische
+11	1	TX
+14	2	Nephropathie
+27	3	mit
+31	4	progredientem
+45	5	Abfall
+52	6	der
+56	7	eGFR

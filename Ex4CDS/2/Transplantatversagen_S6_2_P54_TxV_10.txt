@@ -1,0 +1,4 @@
+0	0	keine
+6	1	hoehergradigen
+20	2	Probleme
+29	3	aktuell.

@@ -1,0 +1,14 @@
+0	0	erhoehtes
+9	1	Infektniveau,
+23	2	frueh
+28	3	nach
+33	4	Tx
+36	5	mit
+40	6	enstprechend
+53	7	viel
+58	8	IS.
+62	9	postop
+69	10	Haematom
+77	11	(Gefahr
+85	12	der
+89	13	Infektion)

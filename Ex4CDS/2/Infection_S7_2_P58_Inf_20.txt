@@ -1,0 +1,3 @@
+0	0	CMV
+4	1	Prophylaxe
+15	2	abgesetzt

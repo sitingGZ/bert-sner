@@ -1,0 +1,7 @@
+0	0	stabile
+8	1	Funktion,
+18	2	keine
+24	3	Proteinurie,
+37	4	eher
+42	5	zeichen
+50	6	Ueberimmunssuppresion

@@ -1,0 +1,8 @@
+0	0	aktuell
+8	1	auf
+12	2	ITS
+16	3	nach
+21	4	Schlaganfall
+34	5	mit
+38	6	fraglichem
+49	7	Infekt.

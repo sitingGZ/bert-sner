@@ -1,0 +1,11 @@
+0	0	Keine
+6	1	Rejektionen
+18	2	bisher,
+26	3	keine
+32	4	DSA,
+37	5	stabile
+45	6	NF
+48	7	bis
+52	8	auf
+56	9	Infektproblematik
+74	10	2014.

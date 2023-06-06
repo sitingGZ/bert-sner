@@ -1,0 +1,12 @@
+0	0	stabile
+8	1	Tac
+12	2	spiegel,
+21	3	gute
+26	4	Medi-Einnahme,
+41	5	Urbason
+49	6	wird
+54	7	ausgeschlchen,
+69	8	Krea
+74	9	stabil
+81	10	bei
+85	11	1,5

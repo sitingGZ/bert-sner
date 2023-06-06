@@ -1,0 +1,11 @@
+0	0	hohes
+6	1	Infektniveau,
+20	2	verkomplizierende
+38	3	Co-Morb.
+47	4	(Diab.
+54	5	mell
+59	6	,
+61	7	pAVK,
+67	8	HWIs
+72	9	und
+76	10	Urosepsis)

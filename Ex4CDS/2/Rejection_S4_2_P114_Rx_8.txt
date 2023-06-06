@@ -1,0 +1,16 @@
+0	0	Tx
+3	1	vor
+7	2	5
+9	3	Jahren,
+17	4	5
+19	5	MM,
+23	6	Krea
+28	7	tendenziell
+40	8	steigend
+49	9	auf
+53	10	2,2,
+58	11	Proteinurie
+70	12	zunehmen
+79	13	auf
+83	14	Alb
+87	15	3g/gKrea.

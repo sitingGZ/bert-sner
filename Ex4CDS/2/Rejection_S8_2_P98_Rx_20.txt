@@ -1,0 +1,8 @@
+0	0	rez
+4	1	Infekte
+12	2	und
+16	3	Bedarf
+23	4	an
+26	5	Anpassung
+36	6	der
+40	7	IS

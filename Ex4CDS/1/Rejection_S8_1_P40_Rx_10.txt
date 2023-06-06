@@ -1,0 +1,6 @@
+0	0	Keine
+6	1	hoch
+11	2	Risiko
+18	3	Konstellation.
+33	4	Stabiler
+42	5	Verlauf

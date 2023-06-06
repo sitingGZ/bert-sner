@@ -1,0 +1,5 @@
+0	0	gute
+5	1	Nierenfunktion
+20	2	mit
+24	3	viel
+29	4	„reserve“

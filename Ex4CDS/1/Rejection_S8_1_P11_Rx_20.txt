@@ -1,0 +1,5 @@
+0	0	Neulich
+8	1	eingeleitete
+21	2	Therapie
+30	3	gegen
+36	4	HCV

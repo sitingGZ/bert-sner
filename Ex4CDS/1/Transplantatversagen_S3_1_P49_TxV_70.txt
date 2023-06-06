@@ -1,0 +1,6 @@
+0	0	Krea
+5	1	stagniert,
+16	2	BKV
+20	3	Nephritis
+30	4	nachgewiesen,
+44	5	DGF

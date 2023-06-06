@@ -1,0 +1,6 @@
+0	0	1
+2	1	Jahr
+7	2	nach
+12	3	TX,
+16	4	Borderline
+27	5	Fruehphase

@@ -1,0 +1,10 @@
+0	0	crp
+4	1	norm,
+10	2	leukos
+17	3	norm,
+23	4	cmv
+27	5	und
+31	6	EBV
+35	7	neg
+39	8	vom
+43	9	31.3.

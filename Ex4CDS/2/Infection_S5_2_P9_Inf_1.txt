@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Infektionsneigung,
+25	2	keine
+31	3	stationaeren
+43	4	Aufenthalte,
+56	5	fitter
+63	6	Pat.

@@ -1,0 +1,6 @@
+0	0	bisher
+7	1	keine
+13	2	Probleme
+22	3	mit
+26	4	IS
+29	5	aufgetreten.

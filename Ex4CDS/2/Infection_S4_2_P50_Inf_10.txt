@@ -1,0 +1,12 @@
+0	0	Diabetes
+9	1	mellitus,
+19	2	Polyzystische
+33	3	Niere,
+40	4	Keine
+46	5	akuten
+53	6	klinischen
+64	7	Infektzeichen,
+79	8	Harnwegsinfekt
+94	9	vor
+98	10	1
+100	11	Monat

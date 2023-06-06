@@ -1,0 +1,13 @@
+0	0	Es
+3	1	liegt
+9	2	eine
+14	3	stabile
+22	4	Tx
+25	5	Funktion
+34	6	seit
+39	7	Jahren
+46	8	vor,
+51	9	der
+55	10	Patient
+63	11	scheint
+71	12	compliant.

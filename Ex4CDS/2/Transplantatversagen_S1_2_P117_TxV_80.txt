@@ -1,0 +1,6 @@
+0	0	hoch
+5	1	schlechte
+15	2	Tx
+18	3	Funktion
+27	4	Kre
+31	5	3,45

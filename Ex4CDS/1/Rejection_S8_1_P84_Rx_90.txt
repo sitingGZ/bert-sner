@@ -1,0 +1,3 @@
+0	0	Aktuell
+8	1	floride
+16	2	Rejektion.

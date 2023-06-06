@@ -1,0 +1,13 @@
+0	0	erst
+5	1	mal
+9	2	guter
+15	3	Verlauf
+23	4	frisch
+30	5	post
+35	6	NTX.
+40	7	Gutes
+46	8	Krea.
+52	9	5
+54	10	MM.
+58	11	Gute
+63	12	Spiegel.

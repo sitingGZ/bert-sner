@@ -1,0 +1,9 @@
+0	0	Tx
+3	1	Funktion
+12	2	stabil
+19	3	trotz
+25	4	BKV
+29	5	in
+32	6	der
+36	7	kuerzeren
+45	8	Vergangenheit

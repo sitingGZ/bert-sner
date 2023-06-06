@@ -1,0 +1,14 @@
+0	0	Umstellung
+11	1	der
+15	2	Immunsuppressiva
+32	3	mit
+36	4	Tx
+39	5	Versagen,
+49	6	als
+53	7	Ursache
+61	8	kann
+66	9	eine
+71	10	Rejektion
+81	11	in
+84	12	Betracht
+93	13	kommen.

@@ -1,0 +1,14 @@
+0	0	Kreatinin
+10	1	aktuell
+18	2	noch
+23	3	im
+26	4	bekannten
+36	5	Schwankungsbereich,
+56	6	nach
+61	7	Ausheilung
+72	8	der
+76	9	Pneumonie
+86	10	mit
+90	11	grosser
+97	12	Wahrscheinlichkeit
+116	13	idem

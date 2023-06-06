@@ -1,0 +1,4 @@
+0	0	CRP
+4	1	2,3;
+9	2	Keine
+15	3	Infektzeichen

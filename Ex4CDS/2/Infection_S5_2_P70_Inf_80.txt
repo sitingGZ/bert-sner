@@ -1,0 +1,10 @@
+0	0	nicht
+6	1	beherrschte
+18	2	pAVK
+23	3	mit
+27	4	Infektproblematik,
+46	5	stationaere
+57	6	Aufnahme
+66	7	bei
+70	8	eitrigem
+79	9	Sekret

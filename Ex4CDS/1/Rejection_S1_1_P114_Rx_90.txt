@@ -1,0 +1,8 @@
+0	0	Bekannte
+9	1	DSA,
+14	2	Hohe
+19	3	Proeteinurie
+32	4	nur
+36	5	bisher
+43	6	keine
+49	7	Biopsie

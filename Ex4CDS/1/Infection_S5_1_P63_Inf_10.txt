@@ -1,0 +1,4 @@
+0	0	2017:
+6	1	Gichtbeschwerden,
+24	2	Hodenschwellung,
+41	3	Cipro

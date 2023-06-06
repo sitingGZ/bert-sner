@@ -1,0 +1,4 @@
+0	0	Nierenfunktion
+15	1	stabil,
+23	2	Proteinurie
+35	3	stabil

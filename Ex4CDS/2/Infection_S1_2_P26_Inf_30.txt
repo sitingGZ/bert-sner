@@ -1,0 +1,4 @@
+0	0	viel
+5	1	IS
+8	2	plus
+13	3	Rituximab

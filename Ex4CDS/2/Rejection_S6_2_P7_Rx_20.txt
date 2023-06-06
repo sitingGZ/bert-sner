@@ -1,0 +1,7 @@
+0	0	aktuell
+8	1	keine
+14	2	Hinweise
+23	3	auf
+27	4	zu
+30	5	niedrige
+39	6	Immunsuppression.

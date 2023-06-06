@@ -1,0 +1,10 @@
+0	0	leukos
+7	1	udn
+11	2	CRP
+15	3	normwertig,
+27	4	klinisch
+36	5	auch
+41	6	kein
+46	7	Hinweis
+54	8	auf
+58	9	Infektion

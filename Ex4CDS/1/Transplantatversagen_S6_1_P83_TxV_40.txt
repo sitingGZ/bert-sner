@@ -1,0 +1,14 @@
+0	0	Insgesamt
+10	1	scheinen
+19	2	eher
+24	3	operativ-mechanische
+45	4	Probleme
+54	5	vorzuliegen
+66	6	oder
+71	7	Infekte,
+80	8	was
+84	9	beides
+91	10	prinzipiell
+103	11	saniert
+111	12	werden
+118	13	kann.

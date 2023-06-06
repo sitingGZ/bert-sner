@@ -1,0 +1,14 @@
+0	0	leukos
+7	1	norm,
+13	2	crp
+17	3	norm,
+23	4	kein
+28	5	hinweis
+36	6	auf
+40	7	Infekt,
+48	8	aber
+53	9	natuerlich
+63	10	erhoehte
+71	11	Immunsuppresion
+87	12	durch
+93	13	Rx-Therapie

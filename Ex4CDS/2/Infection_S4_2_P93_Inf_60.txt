@@ -1,0 +1,15 @@
+0	0	Mehrfach
+9	1	erhoehte
+17	2	Infektwerte
+29	3	in
+32	4	den
+36	5	vergangenen
+48	6	Monaten,
+57	7	aktuell
+65	8	Leukos
+72	9	auf
+76	10	22/nl
+82	11	gestiegen,
+93	12	keine
+99	13	klinischen
+110	14	Daten

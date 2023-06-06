@@ -1,0 +1,16 @@
+0	0	gutes
+6	1	Krea,
+12	2	kein
+17	3	ersichtlicher
+31	4	Grund
+37	5	fuer
+41	6	schnellen
+51	7	TX
+54	8	Verlust
+62	9	ausser
+68	10	unvorgesehenes
+83	11	Ereignis
+92	12	(schwerer
+102	13	Infekt,
+110	14	Rejektion,
+121	15	Thrombose)

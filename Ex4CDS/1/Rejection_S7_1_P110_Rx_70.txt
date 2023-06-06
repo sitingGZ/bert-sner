@@ -1,0 +1,9 @@
+0	0	ESP,
+5	1	schlechtes
+16	2	Match,
+23	3	aktuell
+31	4	in
+34	5	der
+38	6	Histo
+44	7	a.e.
+49	8	DGF

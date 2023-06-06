@@ -1,0 +1,11 @@
+0	0	wegen
+6	1	unklar
+13	2	hohen
+19	3	Cya
+23	4	Spiegeln
+32	5	moeglicherweise
+47	6	leicht
+54	7	erhoehtes
+63	8	Risiko
+70	9	fuer
+74	10	Infektionen.

@@ -1,0 +1,2 @@
+0	0	erhoehte
+8	1	IS

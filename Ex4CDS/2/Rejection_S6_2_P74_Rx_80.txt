@@ -1,0 +1,15 @@
+0	0	Z.n.
+5	1	zellulaerer
+16	2	Rejektion,
+27	3	anhaltend
+37	4	schlechte
+47	5	Nierenfunktion.
+63	6	Rezdiv.
+71	7	zell.
+77	8	Abstossungen
+89	9	koennen
+96	10	zu
+99	11	einer
+105	12	AMBR
+110	13	fuehren
+117	14	langfristig.

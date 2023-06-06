@@ -1,0 +1,9 @@
+0	0	stabiles
+9	1	Befinden,kein
+23	2	Infekt,
+31	3	keine
+37	4	Antibiosen,
+49	5	kein
+54	6	Fieber,
+62	7	CRP
+66	8	4

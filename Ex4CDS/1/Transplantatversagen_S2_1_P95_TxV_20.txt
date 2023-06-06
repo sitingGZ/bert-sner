@@ -1,0 +1,15 @@
+0	0	Tx
+3	1	Funktion
+12	2	im
+15	3	stabilen
+24	4	Schwankungsbereich
+43	5	in
+46	6	den
+50	7	letzten
+58	8	7
+60	9	Jahren,
+68	10	zum
+72	11	Zensurzeitpunkt
+88	12	sehr
+93	13	gutes
+99	14	Kreatinin

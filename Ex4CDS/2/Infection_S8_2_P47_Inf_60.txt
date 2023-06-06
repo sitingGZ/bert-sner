@@ -1,0 +1,8 @@
+0	0	Fieber,
+8	1	CRP
+12	2	Anstieg
+20	3	bei
+24	4	der
+28	5	letzten
+36	6	ambulanten
+47	7	Vorstellung

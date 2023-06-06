@@ -1,0 +1,8 @@
+0	0	hatte
+6	1	Rj
+9	2	IIb
+13	3	im
+16	4	Dez.,
+22	5	Tac
+26	6	eher
+31	7	niedrig.

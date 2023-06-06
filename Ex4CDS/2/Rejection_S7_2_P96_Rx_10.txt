@@ -1,0 +1,2 @@
+0	0	stabiler
+9	1	Langzeitverlauf

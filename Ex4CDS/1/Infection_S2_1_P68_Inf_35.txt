@@ -1,0 +1,9 @@
+0	0	Kein
+5	1	unsanierter
+17	2	Infektherd,
+29	3	keine
+35	4	rez.
+40	5	Infekte
+48	6	in
+51	7	der
+55	8	Vorgeschichte

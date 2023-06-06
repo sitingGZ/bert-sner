@@ -1,0 +1,10 @@
+0	0	Praeemptive
+11	1	Tx
+14	2	vor
+18	3	4
+20	4	Monaten,
+29	5	Krea
+34	6	stabil
+41	7	bei
+45	8	1,29
+50	9	mg/dl

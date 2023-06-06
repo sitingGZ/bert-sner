@@ -1,0 +1,7 @@
+0	0	Krea
+5	1	stabil,
+13	2	kein
+18	3	Anhalt
+25	4	fuer
+29	5	Tx
+32	6	Verschlechterung

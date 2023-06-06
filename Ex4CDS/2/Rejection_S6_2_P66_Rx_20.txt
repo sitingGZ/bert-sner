@@ -1,0 +1,7 @@
+0	0	anscheinend
+12	1	bisher
+19	2	gute
+24	3	compliance,
+36	4	keine
+42	5	Rejektionen
+54	6	bisher.

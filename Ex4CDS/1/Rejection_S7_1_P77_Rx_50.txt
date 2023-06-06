@@ -1,0 +1,3 @@
+0	0	erhoehte
+8	1	Retentionswerte,
+25	2	DSA

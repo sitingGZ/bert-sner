@@ -1,0 +1,3 @@
+0	0	noch
+5	1	Fruehphase
+15	2	NTX

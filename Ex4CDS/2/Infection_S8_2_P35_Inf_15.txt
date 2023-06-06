@@ -1,0 +1,4 @@
+0	0	kein
+5	1	besonders
+15	2	erhoehtes
+24	3	Risiko

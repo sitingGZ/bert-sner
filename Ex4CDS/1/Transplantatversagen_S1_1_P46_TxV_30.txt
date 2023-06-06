@@ -1,0 +1,11 @@
+0	0	Reversible
+11	1	Faktoren
+20	2	die
+24	3	zur
+28	4	Tx
+31	5	Verschlechterung
+48	6	fuehren.
+56	7	Tx
+59	8	Verlust
+67	9	eher
+72	10	unwahrscheinlich.

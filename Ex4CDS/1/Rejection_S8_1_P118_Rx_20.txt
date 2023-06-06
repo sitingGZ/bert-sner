@@ -1,0 +1,5 @@
+0	0	Z.n.
+5	1	Rejektion
+15	2	vor
+19	3	wenigen
+27	4	Monaten.

@@ -1,0 +1,7 @@
+0	0	Komplexer
+10	1	Verlauf
+18	2	mit
+22	3	CMV
+26	4	Reaktivierung
+40	5	Leukopenie
+51	6	usw

@@ -1,0 +1,4 @@
+0	0	kurzer
+7	1	Verlauf
+15	2	nach
+20	3	NTX

@@ -1,0 +1,12 @@
+0	0	keine
+6	1	stattgehabten
+20	2	Rejektionen,
+33	3	vorrangig
+43	4	kardiale
+52	5	Probleme,
+62	6	geringe
+70	7	PU,
+74	8	Umstellung
+85	9	mTOR
+90	10	auf
+94	11	FK

@@ -1,0 +1,7 @@
+0	0	terminale
+10	1	Tx
+13	2	Versagen
+22	3	bei
+26	4	Vorgeschichte
+40	5	sehr
+45	6	wahrscheinlich

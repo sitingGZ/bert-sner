@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Probleme
+15	2	oder
+20	3	Hinweise
+29	4	auf
+33	5	Komplikationen
+48	6	aktuell.

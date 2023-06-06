@@ -1,0 +1,7 @@
+0	0	Einweisung
+11	1	mit
+15	2	erhoehten
+24	3	Entzuendungswerten,
+43	4	Infekt
+50	5	als
+54	6	Ursache?

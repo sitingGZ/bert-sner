@@ -1,0 +1,15 @@
+0	0	Zuletzt
+8	1	HWI:
+13	2	E.
+16	3	faecalis
+25	4	-
+27	5	Meronem-Antibiose
+45	6	stationaer.
+56	7	Akute
+62	8	Gastroenteritis
+78	9	vor
+82	10	1
+84	11	jahr,
+90	12	CRP
+94	13	aktuell
+102	14	1

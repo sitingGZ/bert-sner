@@ -1,0 +1,8 @@
+0	0	reduzierte
+11	1	eGFR,
+17	2	Komplikationen
+32	3	und
+36	4	ggfs
+41	5	Reduktion
+51	6	der
+55	7	IS

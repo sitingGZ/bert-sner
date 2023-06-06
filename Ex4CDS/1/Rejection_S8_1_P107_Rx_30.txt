@@ -1,0 +1,6 @@
+0	0	Bei
+4	1	Z.n.
+9	2	BKV
+13	3	Nephropathie
+26	4	reduzierte
+37	5	IS

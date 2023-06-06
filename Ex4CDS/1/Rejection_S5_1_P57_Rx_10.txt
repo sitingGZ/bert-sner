@@ -1,0 +1,7 @@
+0	0	niedrige
+9	1	IS
+12	2	bei
+16	3	rezidiv.
+25	4	Infekten
+34	5	und
+38	6	Unvertraeglichkeiten

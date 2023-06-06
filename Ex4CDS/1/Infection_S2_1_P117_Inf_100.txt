@@ -1,0 +1,6 @@
+0	0	rez.
+5	1	Cholangitiden
+19	2	in
+22	3	der
+26	4	kurzfristigen
+40	5	Vorgeschichte

@@ -1,0 +1,14 @@
+0	0	creeping
+9	1	Krea,
+15	2	PU,
+19	3	Z.n.
+24	4	K
+26	5	mit
+30	6	Alterierung
+42	7	der
+46	8	IS,
+50	9	V.a.
+55	10	Rj
+58	11	in
+61	12	der
+65	13	Vorgeschichte

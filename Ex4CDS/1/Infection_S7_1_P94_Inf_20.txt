@@ -1,0 +1,13 @@
+0	0	niedriges
+10	1	Infektniveau,
+24	2	aktuell
+32	3	keine
+38	4	Beschwerden,
+51	5	wenig
+57	6	zusaetzliche
+69	7	Risikofaktoren,
+85	8	wenig
+91	9	Infekte
+99	10	in
+102	11	der
+106	12	Vorgeschichte

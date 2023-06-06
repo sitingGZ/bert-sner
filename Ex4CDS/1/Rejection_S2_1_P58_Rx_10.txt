@@ -1,0 +1,4 @@
+0	0	Kreatininverlauf
+17	1	ohne
+22	2	ploetzliche
+33	3	Verschlechterungen

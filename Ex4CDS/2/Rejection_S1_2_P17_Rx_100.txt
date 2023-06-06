@@ -1,0 +1,9 @@
+0	0	Rejektion
+10	1	Banff
+16	2	Ia
+19	3	bei
+23	4	Adhaerenzproblematik
+43	5	und
+47	6	nur
+51	7	fraglicher
+62	8	Tabletteneinnahmen.

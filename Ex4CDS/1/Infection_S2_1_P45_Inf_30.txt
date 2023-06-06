@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Infektion
+16	2	seit
+21	3	Tx
+24	4	in
+27	5	der
+31	6	Vorgeschichte

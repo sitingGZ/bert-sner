@@ -1,0 +1,5 @@
+0	0	Keine
+6	1	Rejektionen
+18	2	dokumentiert,
+32	3	kein
+37	4	Incompliance

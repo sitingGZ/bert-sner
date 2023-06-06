@@ -1,0 +1,10 @@
+0	0	schwankende
+12	1	IS-Spiegel,
+24	2	teils
+30	3	unterimmunsupprimiert
+52	4	und
+56	5	Reduktion
+66	6	IS
+69	7	bei
+73	8	CMV,
+78	9	Krea-Anstieg

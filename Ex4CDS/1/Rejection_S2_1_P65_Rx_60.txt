@@ -1,0 +1,10 @@
+0	0	progredienter
+14	1	Krea-Anstieg
+27	2	in
+30	3	den
+34	4	letzten
+42	5	Monaten
+50	6	mit
+54	7	Schwankungen
+67	8	von
+71	9	1,4-2,2

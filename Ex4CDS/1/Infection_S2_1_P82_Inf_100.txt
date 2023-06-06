@@ -1,0 +1,10 @@
+0	0	nicht
+6	1	ausgeheilte
+18	2	Infektion
+28	3	zum
+32	4	Zeitpunkt
+42	5	der
+46	6	Zensur
+53	7	ueber
+58	8	mehrere
+66	9	Monate

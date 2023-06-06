@@ -1,0 +1,9 @@
+0	0	Vor
+4	1	2
+6	2	Monaten
+14	3	HWI
+18	4	unter
+24	5	Antibiose.
+35	6	CRP
+39	7	aktuell
+47	8	2

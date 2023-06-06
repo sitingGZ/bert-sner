@@ -1,0 +1,6 @@
+0	0	Krea
+5	1	Anstieg
+13	2	und
+17	3	Blutdruckengleisung
+37	4	als
+41	5	Rejektionszeichen

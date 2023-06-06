@@ -1,0 +1,7 @@
+0	0	stabile
+8	1	sehr
+13	2	gute
+18	3	Tx-Funktion
+30	4	seit
+35	5	3
+37	6	Jahren

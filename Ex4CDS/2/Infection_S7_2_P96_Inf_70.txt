@@ -1,0 +1,7 @@
+0	0	verkomplizierender
+19	1	Diabetets,
+30	2	aktuell
+38	3	erhoehtes
+47	4	Infektniveau,
+61	5	Alter,
+68	6	Comorbiditaeten

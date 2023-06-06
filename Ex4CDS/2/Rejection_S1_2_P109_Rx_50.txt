@@ -1,0 +1,11 @@
+0	0	bisher
+7	1	keine
+13	2	Rejktionen,
+25	3	ABER
+30	4	1
+32	5	Punkt
+38	6	Krea
+43	7	Anstieg
+51	8	in
+54	9	einem
+60	10	Jahr

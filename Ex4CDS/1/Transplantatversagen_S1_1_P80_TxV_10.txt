@@ -1,0 +1,6 @@
+0	0	-stabile
+9	1	Tx
+12	2	Funktion
+21	3	ueber
+26	4	lange
+32	5	Zeit

@@ -1,0 +1,7 @@
+0	0	schwankende
+12	1	Krea-Werte,
+24	2	aktuell
+32	3	Ansteig,
+41	4	unstimmigkeiten
+57	5	mit
+61	6	IS,

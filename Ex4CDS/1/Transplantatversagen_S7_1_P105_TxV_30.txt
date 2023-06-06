@@ -1,0 +1,7 @@
+0	0	Krea
+5	1	Anstieg
+13	2	bei
+17	3	guter
+23	4	baseline
+32	5	Tx
+35	6	Funktion

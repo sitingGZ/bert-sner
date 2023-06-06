@@ -1,0 +1,10 @@
+0	0	Krea
+5	1	breits
+12	2	2,83
+17	3	bei
+21	4	56kg
+26	5	KG
+29	6	plus
+34	7	Rejectionen
+46	8	und
+50	9	Infekte

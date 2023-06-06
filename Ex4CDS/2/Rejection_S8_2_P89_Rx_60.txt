@@ -1,0 +1,7 @@
+0	0	Bereits
+8	1	bioptisch
+18	2	gesicherte
+29	3	humorale
+38	4	Rejektion
+48	5	unter
+54	6	Therapie.

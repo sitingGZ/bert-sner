@@ -1,0 +1,7 @@
+0	0	gute
+5	1	Tx
+8	2	Funktion,
+18	3	keine
+24	4	Infekte,
+33	5	keine
+39	6	Rejectionen.

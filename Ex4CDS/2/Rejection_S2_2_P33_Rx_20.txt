@@ -1,0 +1,6 @@
+0	0	Krea
+5	1	stabil
+12	2	im
+15	3	Schwankungsbereich
+34	4	des
+38	5	Patienten

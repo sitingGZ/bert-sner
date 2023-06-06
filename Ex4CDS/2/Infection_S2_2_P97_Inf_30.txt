@@ -1,0 +1,6 @@
+0	0	aktuell
+8	1	keine
+14	2	Infektzeichen,
+29	3	laborchemisch
+43	4	und
+47	5	klinisch

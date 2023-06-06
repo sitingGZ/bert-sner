@@ -1,0 +1,15 @@
+0	0	atuell
+7	1	leicht
+14	2	fallende
+23	3	Retentionswerte,
+40	4	aber
+45	5	insgesamt
+55	6	erhoehtes
+64	7	Niveau,
+72	8	zuletzt
+80	9	deutlicher
+91	10	Krea
+96	11	Anstieg
+104	12	bei
+108	13	akuten
+115	14	Infektgeschehen

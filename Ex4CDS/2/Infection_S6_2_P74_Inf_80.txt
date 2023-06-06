@@ -1,0 +1,16 @@
+0	0	Umstellung
+11	1	von
+15	2	Cya
+19	3	auf
+23	4	Tac,
+28	5	Urbason
+36	6	Stoss
+41	7	-
+43	8	das
+47	9	kann
+52	10	z
+54	11	B
+56	12	eine
+61	13	CMV
+65	14	Rejektion
+75	15	beguenstigen.

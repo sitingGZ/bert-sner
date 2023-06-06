@@ -1,0 +1,6 @@
+0	0	Insgesamt
+10	1	keine
+16	2	Hinweise
+25	3	auf
+29	4	zeitnahe
+38	5	Komplikationen.

@@ -1,0 +1,8 @@
+0	0	Aktuell
+8	1	CRP
+12	2	nicht
+18	3	erhoeht.
+26	4	2017
+31	5	und
+35	6	2018
+40	7	Infekte.

@@ -1,0 +1,4 @@
+0	0	steigendes
+11	1	Krea,
+17	2	bekannte
+26	3	DSA

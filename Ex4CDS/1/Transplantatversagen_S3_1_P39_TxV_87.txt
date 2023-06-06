@@ -1,0 +1,10 @@
+0	0	bekannte
+9	1	DSA
+13	2	pos
+17	3	mit
+21	4	chron.-aktive
+35	5	humorale
+44	6	Rejektion
+54	7	und
+58	8	Maximaltherapie,
+75	9	ausserdem

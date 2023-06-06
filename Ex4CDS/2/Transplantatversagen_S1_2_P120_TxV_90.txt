@@ -1,0 +1,10 @@
+0	0	krea
+5	1	schon
+11	2	4,91,
+17	3	im
+20	4	Brief
+26	5	steht,
+33	6	dass
+38	7	HD
+41	8	Vorbereitet
+53	9	wird

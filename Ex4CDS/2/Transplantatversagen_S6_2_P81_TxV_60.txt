@@ -1,0 +1,11 @@
+0	0	Kinking
+8	1	und
+12	2	erschwerte
+23	3	anatomische
+35	4	operative
+45	5	Verhaeltnisse
+58	6	fuehren
+65	7	zu
+68	8	moeglicherweise
+83	9	schlechter
+94	10	Durchblutungssituation.

@@ -1,0 +1,8 @@
+0	0	jederziet
+10	1	gute
+15	2	NTX
+19	3	Funktion
+28	4	trotz
+34	5	Infekt,
+42	6	keine
+48	7	Rx

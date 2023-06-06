@@ -1,0 +1,9 @@
+0	0	krea
+5	1	steigend,
+15	2	proteinurie
+27	3	steigend,
+37	4	Prograf-spiegel
+53	5	schwankend,
+65	6	u.a.
+70	7	wg
+73	8	Non-Compliance

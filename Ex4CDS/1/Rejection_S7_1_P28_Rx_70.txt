@@ -1,0 +1,6 @@
+0	0	ESP
+4	1	Niere,
+11	2	schlechtes
+22	3	Match,
+29	4	schlechte/schwankende
+51	5	Retentionswerte

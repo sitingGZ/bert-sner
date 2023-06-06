@@ -1,0 +1,7 @@
+0	0	Z.
+3	1	n.
+6	2	rez.
+11	3	Infekten
+20	4	in
+23	5	diesem
+30	6	Jahr.

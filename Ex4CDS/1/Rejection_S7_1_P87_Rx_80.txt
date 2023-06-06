@@ -1,0 +1,7 @@
+0	0	IS
+3	1	reduziert,
+14	2	benoetigt
+23	3	HD,
+27	4	unbefriedigende
+43	5	Tx
+46	6	Funktion

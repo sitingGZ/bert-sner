@@ -1,0 +1,4 @@
+0	0	rez.
+5	1	Infekte,
+14	2	reduzierte
+25	3	IS

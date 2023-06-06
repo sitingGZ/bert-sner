@@ -1,0 +1,8 @@
+0	0	Mehrere
+8	1	Infekte
+16	2	in
+19	3	der
+23	4	Vergangenheit:
+38	5	HWIs
+43	6	Wundinfekte
+55	7	etc.

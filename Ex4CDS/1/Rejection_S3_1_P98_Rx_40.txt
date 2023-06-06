@@ -1,0 +1,5 @@
+0	0	rez
+4	1	Infektionen
+16	2	als
+20	3	Zeichen
+28	4	Ueberimmunsuppression

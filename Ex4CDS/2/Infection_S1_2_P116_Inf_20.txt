@@ -1,0 +1,11 @@
+0	0	frische
+8	1	Tx
+11	2	und
+15	3	Rejection
+25	4	bedeutet
+34	5	viel
+39	6	IS,
+43	7	daher
+49	8	erhoehtes
+58	9	Risiko
+65	10	zudem

@@ -1,0 +1,14 @@
+0	0	Terminales
+11	1	Tx-Versagen
+23	2	bei
+27	3	guter
+33	4	Organqualitaet
+47	5	nach
+52	6	Lebendspende
+65	7	und
+69	8	eingeschraenkt
+83	9	stabiler
+92	10	Tx
+95	11	Funktion
+104	12	eher
+109	13	unwahrscheinlich

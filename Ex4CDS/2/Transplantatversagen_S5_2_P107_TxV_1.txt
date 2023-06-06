@@ -1,0 +1,14 @@
+0	0	keine
+6	1	HLA,
+11	2	einmalig
+20	3	frgl.
+26	4	Rejektion,
+37	5	stabiler
+46	6	Verlauf
+54	7	seit
+59	8	Reduktion
+69	9	IS
+72	10	bei
+76	11	vorrangig
+86	12	BKV
+90	13	Problematik

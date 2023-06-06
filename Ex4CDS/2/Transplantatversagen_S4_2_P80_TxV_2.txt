@@ -1,0 +1,6 @@
+0	0	Nierenfunktion
+15	1	stabil.
+23	2	Immunsuppression
+40	3	im
+43	4	Zielbereich.
+56	5	Hypertonus

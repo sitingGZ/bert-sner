@@ -1,0 +1,14 @@
+0	0	Infektepisode
+14	1	in
+17	2	der
+21	3	Vorgeschichte,
+36	4	aktuell
+44	5	keine
+50	6	relevanten
+61	7	Infektzeichen/niedriges
+85	8	Infektniveau
+98	9	im
+101	10	Labor
+107	11	->
+110	12	moderates
+120	13	Risiko

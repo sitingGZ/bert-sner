@@ -1,0 +1,13 @@
+0	0	Leukos
+7	1	udn
+11	2	CRP
+15	3	normwertig,
+27	4	anscheinenden
+41	5	keine
+47	6	Klinik
+54	7	(keine
+61	8	Eintraege
+70	9	hierzu),
+79	10	USTIX
+85	11	leukos
+92	12	neg

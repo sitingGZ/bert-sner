@@ -1,0 +1,7 @@
+0	0	Bioptisch
+10	1	zuletzt
+18	2	gesicherte
+29	3	RX,
+33	4	kein
+38	5	wirkliches
+49	6	Therapieansprechen

@@ -1,0 +1,16 @@
+0	0	Zunahme
+8	1	der
+12	2	Proteinurie.
+25	3	eGFR
+30	4	noch
+35	5	konstant,
+45	6	allerdings
+56	7	die
+60	8	Modifizierung
+74	9	der
+78	10	IS
+81	11	kann
+86	12	eine
+91	13	neue
+96	14	Dynamik
+104	15	ausloesen.

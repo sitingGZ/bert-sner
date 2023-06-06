@@ -1,0 +1,3 @@
+0	0	Stabile
+8	1	infektiologische
+25	2	Situation

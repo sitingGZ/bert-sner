@@ -1,0 +1,4 @@
+0	0	stabiler
+9	1	Verlauf
+17	2	nach
+22	3	Tx

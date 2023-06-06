@@ -1,0 +1,12 @@
+0	0	schlechte
+10	1	Compliance
+21	2	somit
+27	3	keine
+33	4	Reaktion
+42	5	auf
+46	6	fruehe
+52	7	Symptome
+61	8	einer
+67	9	Infektion,
+78	10	verzoegerte
+89	11	Arztvorstellung

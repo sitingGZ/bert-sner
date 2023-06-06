@@ -1,0 +1,3 @@
+0	0	kein
+5	1	bestehender
+17	2	Infektfokus

@@ -1,0 +1,9 @@
+0	0	weiterhin
+10	1	Beschwerden,
+23	2	rez.
+28	3	Infektionen,
+41	4	keine
+47	5	adaequate
+56	6	Therapie,
+66	7	weiterhin
+76	8	CRP

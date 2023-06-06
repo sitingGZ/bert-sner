@@ -1,0 +1,9 @@
+0	0	stattgehabter
+14	1	HWI
+18	2	bei
+22	3	letztem
+30	4	KH
+33	5	Aufenthalt,
+45	6	CRP
+49	7	max
+53	8	35.

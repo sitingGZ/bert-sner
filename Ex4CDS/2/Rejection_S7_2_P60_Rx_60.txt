@@ -1,0 +1,5 @@
+0	0	reduzierte
+11	1	IS,
+15	2	bekannte
+24	3	DSA,
+29	4	PU

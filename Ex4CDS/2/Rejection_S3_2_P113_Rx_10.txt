@@ -1,0 +1,13 @@
+0	0	jederzeit
+10	1	gute
+15	2	NTX-Funktion,
+29	3	Proteinurie
+41	4	niedrig
+49	5	stabil,
+57	6	IS
+60	7	schien
+67	8	immer
+73	9	gut
+77	10	eingestellt
+89	11	zu
+92	12	sein

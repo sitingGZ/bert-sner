@@ -1,0 +1,11 @@
+0	0	Krea
+5	1	faellt
+11	2	derzeitig,
+22	3	a.e.
+27	4	Infektkonstellation,
+48	5	keine
+54	6	relevanten
+65	7	Rj
+68	8	in
+71	9	der
+75	10	Vergangenheit

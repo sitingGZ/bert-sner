@@ -1,0 +1,9 @@
+0	0	PU
+3	1	zwar
+8	2	steigend,
+18	3	aber
+23	4	Nierenfunktion
+38	5	sehr
+43	6	stabil.
+51	7	Keine
+57	8	DSA.

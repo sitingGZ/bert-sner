@@ -1,0 +1,5 @@
+0	0	Keine
+6	1	eindeutigen
+18	2	Hinweise
+27	3	auf
+31	4	Incompliance.

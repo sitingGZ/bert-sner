@@ -1,0 +1,4 @@
+0	0	gutes
+6	1	Krea,
+12	2	unauffaelliges
+26	3	Sono,

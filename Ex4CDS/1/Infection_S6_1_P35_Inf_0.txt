@@ -1,0 +1,9 @@
+0	0	Aktuell
+8	1	sonographisch
+22	2	und
+26	3	anamnestisch
+39	4	kein
+44	5	Hinweis
+52	6	auf
+56	7	eine
+61	8	Infektion.

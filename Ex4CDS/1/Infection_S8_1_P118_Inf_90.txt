@@ -1,0 +1,6 @@
+0	0	Ergibt
+7	1	sich
+12	2	von
+16	3	der
+20	4	Anamnese
+29	5	(Verlauf)

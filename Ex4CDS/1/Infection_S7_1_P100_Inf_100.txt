@@ -1,0 +1,4 @@
+0	0	aktuell
+8	1	deuthlich
+18	2	erhoehte
+26	3	Infektwerte

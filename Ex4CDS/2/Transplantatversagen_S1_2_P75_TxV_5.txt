@@ -1,0 +1,5 @@
+0	0	Krea
+5	1	Stabil
+12	2	ueber
+17	3	langen
+24	4	Zeitraum

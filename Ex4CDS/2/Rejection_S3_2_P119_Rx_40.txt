@@ -1,0 +1,11 @@
+0	0	Krea
+5	1	stabil,
+13	2	relativ
+21	3	hohe
+26	4	aber
+31	5	stabile
+39	6	Proteinurie,
+52	7	Immunsuppression
+69	8	soll
+74	9	reduziert
+84	10	werden

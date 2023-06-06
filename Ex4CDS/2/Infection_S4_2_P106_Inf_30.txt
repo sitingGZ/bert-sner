@@ -1,0 +1,5 @@
+0	0	zuletzt
+8	1	Pneumonien,
+20	2	Bronchiektasie,
+36	3	CRP
+40	4	<5

@@ -1,0 +1,7 @@
+0	0	Tx
+3	1	vor
+7	2	3
+9	3	Monaten,
+18	4	2MM,
+23	5	Stabile
+31	6	Transplantatfuntion

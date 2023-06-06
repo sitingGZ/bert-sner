@@ -1,0 +1,11 @@
+0	0	Borderline
+11	1	Rejektion
+21	2	und
+25	3	ATN
+29	4	NiBi
+34	5	im
+37	6	stationaeren
+49	7	Aufenthalt
+60	8	nach
+65	9	erfolgter
+75	10	TX

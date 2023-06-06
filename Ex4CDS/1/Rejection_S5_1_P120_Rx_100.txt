@@ -1,0 +1,12 @@
+0	0	Nachweise
+10	1	von
+14	2	Rejektionen
+26	3	2x
+29	4	innerhalb
+39	5	der
+43	6	letzten
+51	7	2
+53	8	Jahre,
+60	9	Vorhandensein
+74	10	von
+78	11	DSA.

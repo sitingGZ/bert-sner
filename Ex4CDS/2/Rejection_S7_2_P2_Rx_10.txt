@@ -1,0 +1,12 @@
+0	0	Stabile
+8	1	Tx
+11	2	Funktion,
+21	3	kein
+26	4	Hinweis
+34	5	fuer
+38	6	Rejektion
+48	7	zuletzt,
+57	8	keine
+63	9	PU,
+67	10	keine
+73	11	DSA

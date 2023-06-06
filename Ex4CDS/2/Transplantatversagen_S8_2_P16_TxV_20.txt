@@ -1,0 +1,4 @@
+0	0	hoeheres
+8	1	Risiko
+15	2	wegen
+21	3	B.

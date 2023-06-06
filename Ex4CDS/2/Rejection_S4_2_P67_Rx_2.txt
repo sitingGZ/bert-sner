@@ -1,0 +1,12 @@
+0	0	Tx
+3	1	vor
+7	2	6
+9	3	Monaten,
+18	4	3MM,
+23	5	keine
+29	6	relevante
+39	7	Proteinurie,
+52	8	Krea
+57	9	bei
+61	10	1,7
+65	11	stabil

@@ -1,0 +1,7 @@
+0	0	Krea
+5	1	Anstieg
+13	2	Leukozyturie
+26	3	->
+29	4	HWI
+33	5	aktuell
+41	6	wahrscheinlich

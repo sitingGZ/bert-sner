@@ -1,0 +1,11 @@
+0	0	Klebsiellen
+12	1	plus
+17	2	Pneudomonas
+29	3	(?)
+33	4	in
+36	5	der
+40	6	U
+42	7	Kultur
+49	8	plus
+54	9	schlechteres
+67	10	Kreatinin.

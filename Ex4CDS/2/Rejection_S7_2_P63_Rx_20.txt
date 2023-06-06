@@ -1,0 +1,9 @@
+0	0	stabile
+8	1	Tx
+11	2	Funktion
+20	3	im
+23	4	gewohnten
+33	5	Schwankungsbereich
+52	6	mit
+56	7	gutem
+62	8	L-Verlauf

@@ -1,0 +1,8 @@
+0	0	aktuell
+8	1	abgesehen
+18	2	von
+22	3	Infektproblematik
+40	4	kein
+45	5	Hinweis
+53	6	auf
+57	7	Abstossung.

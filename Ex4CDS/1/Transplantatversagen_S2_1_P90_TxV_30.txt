@@ -1,0 +1,5 @@
+0	0	stabil
+7	1	eingeschraenkte
+22	2	TX-Funktion
+34	3	ohne
+39	4	Dekompensationen

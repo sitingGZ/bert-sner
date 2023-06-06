@@ -1,0 +1,17 @@
+0	0	stationaere
+11	1	Aufnahme
+20	2	bei
+24	3	Krea-Anstieg
+37	4	von
+41	5	6
+43	6	auf
+47	7	7.
+50	8	Re-Biopsie
+61	9	diskutieren
+73	10	???
+77	11	Shunt-Anlage
+90	12	??
+93	13	Fragliche
+103	14	Uraemiesymptomatik
+121	15	mit
+125	16	Appetitverlust.

@@ -1,0 +1,9 @@
+0	0	gesichérte
+11	1	Borderline
+22	2	Rx
+25	3	in
+28	4	Biopsie,
+37	5	Albuminurie
+49	6	ansteigend,
+61	7	Krea
+66	8	ansteigend

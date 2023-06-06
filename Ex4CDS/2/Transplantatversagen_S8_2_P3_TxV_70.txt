@@ -1,0 +1,4 @@
+0	0	Bereits
+8	1	schlechte
+18	2	TX
+21	3	Funktion.

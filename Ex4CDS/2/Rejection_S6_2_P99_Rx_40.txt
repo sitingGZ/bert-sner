@@ -1,0 +1,13 @@
+0	0	bisher
+7	1	zwar
+12	2	keine
+18	3	Probleme,
+28	4	aber
+33	5	neu
+37	6	DSA
+41	7	und
+45	8	ED
+48	9	MM
+51	10	2007
+56	11	(nach
+62	12	NTX).

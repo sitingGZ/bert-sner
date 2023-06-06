@@ -1,0 +1,8 @@
+0	0	Kein
+5	1	klarer
+12	2	Hinweis
+20	3	fuer
+24	4	eine
+29	5	aktuell
+37	6	erhoehte
+45	7	Infektionsgefahr

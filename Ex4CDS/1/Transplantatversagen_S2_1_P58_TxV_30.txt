@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Kreatininspruenge,
+24	2	Sono
+29	3	bis
+33	4	auf
+37	5	Perfusionsdefizit
+55	6	unauffaellig

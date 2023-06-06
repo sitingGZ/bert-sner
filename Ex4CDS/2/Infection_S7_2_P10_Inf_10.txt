@@ -1,0 +1,10 @@
+0	0	klinische
+10	1	und
+14	2	im
+17	3	Lab
+21	4	kein
+26	5	Hinweis
+34	6	fuer
+38	7	Infekt,
+46	8	BK
+49	9	ruecklaeufig

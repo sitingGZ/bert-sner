@@ -1,0 +1,9 @@
+0	0	Stabile
+8	1	IS,
+12	2	keine
+18	3	Proteinurie.
+31	4	Allerdings
+42	5	nicht
+48	6	gut
+52	7	sanierbare
+63	8	Infektion.

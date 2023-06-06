@@ -1,0 +1,10 @@
+0	0	steigendes
+11	1	Krea,
+17	2	Rejektion
+27	3	in
+30	4	der
+34	5	Vorgeschichte,
+49	6	bekannte
+58	7	DSA,
+63	8	zunehmende
+74	9	PU

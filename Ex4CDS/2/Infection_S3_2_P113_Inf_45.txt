@@ -1,0 +1,10 @@
+0	0	rez
+4	1	Infektgeschehen,
+21	2	CRPp
+26	3	wohl
+31	4	wieder
+38	5	ansteigend,
+50	6	teils
+56	7	resistente
+67	8	Keime
+73	9	nachgeweisen

@@ -1,0 +1,6 @@
+0	0	Keine
+6	1	Besonderheiten.
+22	2	29
+25	3	Jahre
+31	4	alter
+37	5	Patient/Patientin

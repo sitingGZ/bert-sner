@@ -1,0 +1,9 @@
+0	0	erhoehtes
+9	1	Risiko
+16	2	wegen
+22	3	intensivierter
+37	4	Immunsuppression
+54	5	plus
+59	6	Rejektionsbehandlung.
+81	7	Unklare
+89	8	Knieprobleme.

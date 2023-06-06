@@ -1,0 +1,13 @@
+0	0	Rezidiv.
+9	1	Infekt
+16	2	und
+20	3	Abstossungsepisoden
+39	4	einhergehenden
+54	5	mit
+58	6	Nierenfunktionsverschlechterung
+90	7	weisen
+97	8	auf
+101	9	eine
+106	10	nahende
+114	11	Dialysepflicht
+129	12	hin.

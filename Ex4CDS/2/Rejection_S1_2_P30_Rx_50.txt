@@ -1,0 +1,8 @@
+0	0	DSA
+4	1	plus
+9	2	Proteinurie
+21	3	und
+25	4	CyA
+29	5	Spigel
+36	6	oft
+40	7	niedrig

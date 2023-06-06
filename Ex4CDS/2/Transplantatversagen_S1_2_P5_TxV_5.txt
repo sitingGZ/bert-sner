@@ -1,0 +1,14 @@
+0	0	Tx
+3	1	hat
+7	2	noch
+12	3	Reserve.
+21	4	Baseline
+30	5	Krea
+35	6	bei
+39	7	unter
+45	8	1.
+48	9	Anstieg
+56	10	ist
+60	11	dem
+64	12	Infekt
+71	13	zuzuschreiben.

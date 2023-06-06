@@ -1,0 +1,4 @@
+0	0	aktuelles
+10	1	dialyspflichtiges
+28	2	Tx
+31	3	Versagen

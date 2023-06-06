@@ -1,0 +1,4 @@
+0	0	low
+4	1	Dose
+9	2	CNI
+13	3	Steroidfrei

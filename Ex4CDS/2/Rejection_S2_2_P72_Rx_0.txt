@@ -1,0 +1,11 @@
+0	0	stabile
+8	1	Tx
+11	2	Funktion
+20	3	seit
+25	4	14
+28	5	Jahren,
+36	6	Krea
+41	7	Verlauf
+49	8	stabil,
+57	9	Pat
+61	10	beschwerdefrei

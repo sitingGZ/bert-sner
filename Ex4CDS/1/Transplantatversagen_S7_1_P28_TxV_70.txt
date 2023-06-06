@@ -1,0 +1,11 @@
+0	0	schlechte
+10	1	Tx
+13	2	Funktion,
+23	3	PU,
+27	4	kardiorenales
+41	5	Syndrom
+49	6	(Pendelfluss),
+64	7	chron.
+71	8	Parenchymschaedigung
+91	9	Im
+94	10	Sono

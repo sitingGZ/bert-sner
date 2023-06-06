@@ -1,0 +1,9 @@
+0	0	erhoehtes
+9	1	Niveau
+16	2	d
+18	3	Retentionswerte,
+35	4	wenn
+40	5	zuletzt
+48	6	auch
+53	7	wieder
+60	8	fallend

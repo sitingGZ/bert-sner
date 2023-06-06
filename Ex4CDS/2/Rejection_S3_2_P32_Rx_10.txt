@@ -1,0 +1,7 @@
+0	0	gute
+5	1	Funktion,
+15	2	keine
+21	3	Proteinurie,
+34	4	Immunsupression
+50	5	im
+53	6	Zielbereich

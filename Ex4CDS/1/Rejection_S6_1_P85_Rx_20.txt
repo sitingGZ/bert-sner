@@ -1,0 +1,13 @@
+0	0	Es
+3	1	ergab
+9	2	sich
+14	3	bisher
+21	4	keine
+27	5	Problematik
+39	6	im
+42	7	Sinne
+48	8	von
+52	9	Rejektion
+62	10	oder
+67	11	Hinweise
+76	12	darauf.

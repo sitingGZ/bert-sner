@@ -1,0 +1,16 @@
+0	0	guter
+6	1	Langzeitverlauf
+22	2	ohne
+27	3	bisherige
+37	4	Problematik.
+50	5	Einzig
+57	6	der
+61	7	D.m.
+66	8	koennte
+73	9	Infektneigung
+87	10	beguenstigen,
+100	11	aber
+105	12	bisher
+112	13	klinisch
+121	14	nur
+125	15	Pankreaszysteninfekt.

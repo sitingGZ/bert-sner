@@ -1,0 +1,16 @@
+0	0	steigendes
+11	1	Krea,
+17	2	steigende
+27	3	Proteinurie,
+40	4	unspez
+47	5	Veraenderungen
+61	6	in
+64	7	der
+68	8	letzten
+76	9	Biopsie,
+85	10	wechselnde
+96	11	Blutdruecke,
+108	12	Z.n.
+113	13	TX
+116	14	Versagen
+125	15	10/12

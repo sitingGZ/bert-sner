@@ -1,0 +1,5 @@
+0	0	mangelnde
+10	1	Therapieadhaerenz
+27	2	bei
+31	3	schlechter
+42	4	Compliance

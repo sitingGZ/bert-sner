@@ -1,0 +1,13 @@
+0	0	guter
+6	1	Verlauf
+14	2	nach
+19	3	LS
+22	4	NTx,
+27	5	gutes
+33	6	match,
+40	7	keine
+46	8	PU,
+50	9	etwas
+56	10	schwankende
+68	11	IS
+71	12	Spiegel

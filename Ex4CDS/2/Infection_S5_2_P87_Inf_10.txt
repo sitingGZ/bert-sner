@@ -1,0 +1,13 @@
+0	0	bisher
+7	1	geringe
+15	2	Neigung
+23	3	zu
+26	4	rediziv.
+35	5	Infektionen,
+48	6	zuletzt
+56	7	allerdings
+67	8	Pneumonie,
+78	9	Aquaphorese
+90	10	mit
+94	11	erhoehtem
+103	12	Infektionsrisiko

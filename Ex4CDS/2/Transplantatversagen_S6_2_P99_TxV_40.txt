@@ -1,0 +1,16 @@
+0	0	MM
+3	1	kann
+8	2	auf
+12	3	viele
+18	4	Arten
+24	5	ein
+28	6	ANV
+32	7	herbeifuehren,
+46	8	daher
+52	9	leicht
+59	10	erhoehtes
+68	11	Risiko
+75	12	fuer
+79	13	NTX
+83	14	Verlust
+91	15	langfristig.

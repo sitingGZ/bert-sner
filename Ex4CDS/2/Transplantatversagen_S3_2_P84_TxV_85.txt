@@ -1,0 +1,9 @@
+0	0	Z.n.
+5	1	RX/aktuell
+16	2	weiterhin
+26	3	RX,
+30	4	NTX
+34	5	Funktion
+43	6	schlecht,
+53	7	chronisch
+63	8	schlecht

@@ -1,0 +1,10 @@
+0	0	Alter,
+7	1	Vorerkrankungen,
+24	2	Infekte
+32	3	in
+35	4	der
+39	5	Vorgeschichte,
+54	6	aktuell
+62	7	V.a.
+67	8	septisches
+78	9	Geschehen

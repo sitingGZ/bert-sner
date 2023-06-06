@@ -1,0 +1,3 @@
+0	0	gute
+5	1	Tx
+8	2	Funktion

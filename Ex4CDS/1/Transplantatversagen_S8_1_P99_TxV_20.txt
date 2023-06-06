@@ -1,0 +1,15 @@
+0	0	Stabiles
+9	1	Krea,
+15	2	allerdings
+26	3	im
+29	4	Rahmen
+36	5	einer
+42	6	infektiologischen
+60	7	oder
+65	8	anderen
+73	9	Komplikation
+86	10	ist
+90	11	ein
+94	12	TX
+97	13	Versagen
+106	14	moeglich

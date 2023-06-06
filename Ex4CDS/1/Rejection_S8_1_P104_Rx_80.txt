@@ -1,0 +1,7 @@
+0	0	Achtung,
+9	1	ich
+13	2	glaube
+20	3	ich
+24	4	kenne
+30	5	die
+34	6	Patientin!

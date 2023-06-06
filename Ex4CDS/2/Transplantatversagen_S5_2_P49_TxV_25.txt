@@ -1,0 +1,14 @@
+0	0	Fruehphase
+10	1	TX,
+14	2	DGF,
+19	3	Reduktion
+29	4	IS
+32	5	wegen
+38	6	BKV,
+43	7	u.a.
+48	8	auch
+53	9	erhoehtes
+62	10	Risiko
+69	11	fuer
+73	12	infektgetriggerte
+91	13	Rejektion

@@ -1,0 +1,8 @@
+0	0	Fruehphase
+10	1	nach
+15	2	Ntx
+19	3	mit
+23	4	noch
+28	5	eingeschraenkter
+44	6	Tx
+47	7	Funktion

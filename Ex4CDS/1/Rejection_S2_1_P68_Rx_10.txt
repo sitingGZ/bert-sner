@@ -1,0 +1,17 @@
+0	0	1.
+3	1	stabile
+11	2	Tx
+14	3	Funktion
+23	4	seit
+28	5	15
+31	6	Jahren,
+39	7	insbesondere
+52	8	in
+55	9	den
+59	10	letzten
+67	11	9
+69	12	Jahren
+76	13	stabiler
+85	14	Kreatininverlauf
+102	15	ohne
+107	16	Progredienz

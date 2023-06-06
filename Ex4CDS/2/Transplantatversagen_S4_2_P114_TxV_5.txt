@@ -1,0 +1,10 @@
+0	0	Krea
+5	1	tendenziell
+17	2	steigend
+26	3	auf
+30	4	2,2,
+35	5	Proteinurie
+47	6	zunehmen
+56	7	auf
+60	8	Alb
+64	9	3g/gKrea

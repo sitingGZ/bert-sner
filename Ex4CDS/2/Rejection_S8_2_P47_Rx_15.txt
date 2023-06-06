@@ -1,0 +1,12 @@
+0	0	Obwohl
+7	1	ABOi
+12	2	TX,
+16	3	stabile
+24	4	Verhaeltnisse,
+38	5	keine
+44	6	relevante
+54	7	Proteinurie.
+67	8	eGFR
+72	9	Abfall
+79	10	aktuell
+87	11	infektgetriggert.

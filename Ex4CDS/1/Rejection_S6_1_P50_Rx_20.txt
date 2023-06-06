@@ -1,0 +1,15 @@
+0	0	Stabiler
+9	1	klinischer
+20	2	Verlauf
+28	3	in
+31	4	der
+35	5	letzten
+43	6	Zeit,
+49	7	kein
+54	8	Hinweis
+62	9	auf
+66	10	Problematik
+78	11	im
+81	12	Sinne
+87	13	von
+91	14	Rejektion.

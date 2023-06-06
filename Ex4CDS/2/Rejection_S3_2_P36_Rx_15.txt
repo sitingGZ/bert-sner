@@ -1,0 +1,17 @@
+0	0	gute
+5	1	Funktion
+14	2	nach
+19	3	NTX,
+24	4	IS
+27	5	im
+30	6	Zielbereich,
+43	7	eher
+48	8	noch
+53	9	im
+56	10	kritischen
+67	11	berei
+73	12	fuer
+77	13	TCMR
+82	14	kur
+86	15	nach
+91	16	NTX

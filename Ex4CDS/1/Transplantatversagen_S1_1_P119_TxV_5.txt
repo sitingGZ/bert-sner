@@ -1,0 +1,14 @@
+0	0	Tx
+3	1	Funktion
+12	2	ueber
+17	3	lange
+23	4	Zeit
+28	5	auf
+32	6	stabil
+39	7	hohem
+45	8	Niveau,
+53	9	ohne
+58	10	Akutereignis
+71	11	Tx
+74	12	Verlust
+82	13	unwahrscheinlich.

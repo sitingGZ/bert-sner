@@ -1,0 +1,15 @@
+0	0	Bereits
+8	1	direkt
+15	2	postoperativ
+28	3	HWI
+32	4	und
+36	5	fragl.
+43	6	resp.
+49	7	Infekt
+56	8	-
+58	9	wegen
+64	10	IS?
+68	11	Infektanfaelligkeit
+87	12	hierunter
+97	13	moeglicherweise
+112	14	ausgepraegt?

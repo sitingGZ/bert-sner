@@ -1,0 +1,6 @@
+0	0	aktuell
+8	1	stationaer
+18	2	mit
+22	3	Dyspone
+30	4	bei
+34	5	Lungenfiborse.

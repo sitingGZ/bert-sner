@@ -1,0 +1,9 @@
+0	0	stabile
+8	1	Funktion,
+18	2	regrediente
+30	3	Proteinurie,
+43	4	aber
+48	5	chronischer
+60	6	Harnstau
+69	7	und
+73	8	infektproblem

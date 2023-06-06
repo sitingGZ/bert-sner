@@ -1,0 +1,4 @@
+0	0	Kein
+5	1	Hinweis
+13	2	auf
+17	3	Infekte.

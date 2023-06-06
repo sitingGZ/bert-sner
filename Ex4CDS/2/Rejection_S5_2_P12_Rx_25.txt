@@ -1,0 +1,7 @@
+0	0	Infektgetriggerte
+18	1	Rejektion
+28	2	moeglich,
+37	3	bisher
+44	4	keine
+50	5	Rejektionsepisoden
+69	6	bekannt

@@ -1,0 +1,11 @@
+0	0	fortlaufend
+12	1	V.a.
+17	2	zellulaere
+27	3	Rejektionskomponente,
+49	4	Vorgeschichte
+63	5	BANFF
+69	6	IIb
+73	7	mit
+77	8	Glomerulitis
+90	9	und
+94	10	pTc

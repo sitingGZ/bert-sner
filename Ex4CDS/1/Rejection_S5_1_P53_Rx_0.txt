@@ -1,0 +1,8 @@
+0	0	TX
+3	1	2001,
+9	2	LS,
+13	3	Rekurrenz
+23	4	2008
+28	5	mit
+32	6	Halbmond,
+42	7	Endoxan

@@ -1,0 +1,9 @@
+0	0	Kardiorenale
+13	1	Dekompensation,
+29	2	Hypervolaemie,
+43	3	Gefahr
+50	4	der
+54	5	pulmonalen
+65	6	Stauung
+73	7	und
+77	8	Pneumonie.

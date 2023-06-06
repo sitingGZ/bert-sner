@@ -1,0 +1,14 @@
+0	0	hat
+4	1	aktuell
+12	2	Rejection:“
+24	3	Patient
+32	4	is
+35	5	raus
+40	6	aus
+44	7	der
+48	8	Senator-Studie
+63	9	wg.
+67	10	Rejektion!“
+79	11	als
+83	12	tbase
+89	13	Eintrag

@@ -1,0 +1,7 @@
+0	0	bekannte
+9	1	COPD,
+15	2	Z.n.
+20	3	Exazerbation,
+34	4	CRP
+38	5	aktuell
+46	6	2

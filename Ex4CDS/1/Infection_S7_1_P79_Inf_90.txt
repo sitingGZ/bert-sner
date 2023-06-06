@@ -1,0 +1,4 @@
+0	0	Prostatabehandlung
+19	1	in
+22	2	der
+26	3	Vorgeschichte

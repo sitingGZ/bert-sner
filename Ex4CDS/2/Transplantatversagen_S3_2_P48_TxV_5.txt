@@ -1,0 +1,3 @@
+0	0	stabile
+8	1	super
+14	2	Funktion

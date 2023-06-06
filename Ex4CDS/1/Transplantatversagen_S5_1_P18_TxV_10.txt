@@ -1,0 +1,5 @@
+0	0	rezidiv.
+9	1	HWI
+13	2	als
+17	3	fuehrende
+26	4	Problematik

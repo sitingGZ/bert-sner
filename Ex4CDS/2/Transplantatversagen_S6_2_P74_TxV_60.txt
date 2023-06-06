@@ -1,0 +1,17 @@
+0	0	ansteig.
+9	1	Retentionsparameter
+29	2	und
+33	3	Hyperkaliaemieneigung
+54	4	als
+58	5	aktuelle
+67	6	Problematik
+79	7	koennten
+87	8	auf
+91	9	die
+95	10	evlt.
+101	11	auch
+106	12	nur
+110	13	kurzfristig
+122	14	notwendige
+133	15	NET
+137	16	hinweisen.

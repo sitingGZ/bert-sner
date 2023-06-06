@@ -1,0 +1,8 @@
+0	0	verzoegerte
+11	1	Funktionsaufnahme,
+30	2	evtl
+35	3	auch
+40	4	RX,
+44	5	Re-OP
+50	6	wg
+53	7	Kinking

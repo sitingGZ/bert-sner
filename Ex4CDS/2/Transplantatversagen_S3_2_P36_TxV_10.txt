@@ -1,0 +1,6 @@
+0	0	gute
+5	1	Funktion,
+15	2	frisch-NTX,
+27	3	keine
+33	4	bdeutsame
+43	5	Proteinurie

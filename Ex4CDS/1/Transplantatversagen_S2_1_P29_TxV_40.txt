@@ -1,0 +1,16 @@
+0	0	schwankender
+13	1	Krea-Verlauf
+26	2	seit
+31	3	Tx
+34	4	mit
+38	5	progred.
+47	6	steigender
+58	7	Baseline,
+68	8	letzte
+75	9	Vorstellung
+87	10	mit
+91	11	ANV
+95	12	des
+99	13	Tx
+102	14	bei
+106	15	Pneumonie

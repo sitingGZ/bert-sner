@@ -1,0 +1,5 @@
+0	0	guter
+6	1	Verlauf,
+15	2	keine
+21	3	Infektprobleme
+36	4	bisher

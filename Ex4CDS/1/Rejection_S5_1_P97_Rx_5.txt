@@ -1,0 +1,5 @@
+0	0	26J
+4	1	nach
+9	2	NTX,
+14	3	stabiler
+23	4	Verlauf

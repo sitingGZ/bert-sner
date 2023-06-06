@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Rejektionen
+18	2	bisher,
+26	3	HLA
+30	4	grenzwertig,
+43	5	erhoehte
+51	6	PU

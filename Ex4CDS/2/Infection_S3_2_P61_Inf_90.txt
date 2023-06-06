@@ -1,0 +1,7 @@
+0	0	USTIX
+6	1	Leukos
+13	2	positiv,
+22	3	Bakteriennachweis
+40	4	gelungen,
+50	5	Krea
+55	6	anstieg

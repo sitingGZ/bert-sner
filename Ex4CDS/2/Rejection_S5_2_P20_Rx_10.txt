@@ -1,0 +1,10 @@
+0	0	bisher
+7	1	einmalig
+16	2	borderline
+27	3	Rejektion
+37	4	bei
+41	5	vorangig
+50	6	Infektkomplikationen,
+72	7	Virusinfektion,
+88	8	kardiale
+97	9	Problematik,

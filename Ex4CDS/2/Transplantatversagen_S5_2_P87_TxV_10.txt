@@ -1,0 +1,8 @@
+0	0	kardiale
+9	1	fuehrende
+18	2	Problematik,
+31	3	erhoehtes
+40	4	Risiko
+47	5	eines
+53	6	kardiorenalen
+67	7	ANV

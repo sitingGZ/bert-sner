@@ -1,0 +1,16 @@
+0	0	Stabile
+8	1	Nierenfunktion
+23	2	laborchemisch,
+38	3	daher
+44	4	sehe
+49	5	ich
+53	6	kein
+58	7	ueber
+63	8	die
+67	9	Massen
+73	10	erhoehtes
+82	11	Risiko
+89	12	fuer
+93	13	eine
+98	14	drohende
+107	15	Dialysepflicht.

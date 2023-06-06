@@ -1,0 +1,8 @@
+0	0	stationaer
+10	1	mit
+14	2	floridem
+23	3	Infekt
+30	4	aktuell.
+39	5	Aeltere
+46	6	morbide
+54	7	Patientin

@@ -1,0 +1,15 @@
+0	0	erhoehtes
+9	1	Infektrisiko
+22	2	in
+25	3	der
+29	4	Fruehphase
+39	5	nach
+44	6	Ntx
+48	7	aber
+53	8	es
+56	9	deutet
+63	10	sich
+68	11	noch
+73	12	kein
+78	13	Infekt
+85	14	an

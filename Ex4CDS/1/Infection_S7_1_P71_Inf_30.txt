@@ -1,0 +1,7 @@
+0	0	etwas
+6	1	Infektzeichen
+20	2	im
+23	3	Labor
+29	4	(DD
+33	5	rheumatologische
+50	6	GE)

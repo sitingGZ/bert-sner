@@ -1,0 +1,7 @@
+0	0	Zuletzt
+8	1	CRP
+12	2	stark
+18	3	erhoeht.
+26	4	Keine
+32	5	Ursache
+40	6	bekannt.

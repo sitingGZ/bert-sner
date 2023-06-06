@@ -1,0 +1,9 @@
+0	0	stattgehabte
+13	1	Rj
+16	2	liegen
+23	3	laenger
+30	4	zurueck,
+38	5	zuletzt
+46	6	keine
+52	7	neuen
+58	8	Rj

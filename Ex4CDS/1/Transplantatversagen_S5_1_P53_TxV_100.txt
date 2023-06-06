@@ -1,0 +1,7 @@
+0	0	rasch
+6	1	progred.
+15	2	Nierenversagen,
+31	3	Azidose,
+40	4	Hyperkaliaemie,
+55	5	hohe
+60	6	PU.

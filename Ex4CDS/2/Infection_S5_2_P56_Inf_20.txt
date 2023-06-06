@@ -1,0 +1,7 @@
+0	0	rezidiv.
+9	1	HWI,
+14	2	aber
+19	3	bisher
+26	4	niedriges
+36	5	Infektniveau
+49	6	(CRP),

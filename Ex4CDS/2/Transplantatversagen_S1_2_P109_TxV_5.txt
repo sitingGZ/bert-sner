@@ -1,0 +1,9 @@
+0	0	Krea
+5	1	in
+8	2	einem
+14	3	Jahr
+19	4	von
+23	5	1mg/dl
+30	6	auf
+34	7	2mg/dl
+41	8	gestiegen.

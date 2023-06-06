@@ -1,0 +1,6 @@
+0	0	schwankende
+12	1	Krea-Werte,
+24	2	ABOi
+29	3	LS,
+33	4	Z.n.
+38	5	Rejektion

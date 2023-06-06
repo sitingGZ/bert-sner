@@ -1,0 +1,5 @@
+0	0	Fruehphase
+10	1	NTX,
+15	2	volle
+21	3	IS
+24	4	(triple)

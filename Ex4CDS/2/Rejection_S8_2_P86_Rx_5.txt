@@ -1,0 +1,6 @@
+0	0	stabile
+8	1	Verhaeltnisse
+21	2	2
+23	3	Jahren
+30	4	nach
+35	5	TX

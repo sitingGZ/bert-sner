@@ -1,0 +1,9 @@
+0	0	COPD
+5	1	und
+9	2	Stauungsdermatitis
+28	3	als
+32	4	Risikofaktoren,
+48	5	aber
+53	6	bisher
+60	7	wenig
+66	8	Infektprobleme

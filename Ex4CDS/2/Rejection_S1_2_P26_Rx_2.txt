@@ -1,0 +1,14 @@
+0	0	eher
+5	1	unwahrscheinlich,
+23	2	weil
+28	3	der
+32	4	Patient
+40	5	sehr
+45	6	viel
+50	7	Immunsuppression
+67	8	im
+70	9	Rahmen
+77	10	des
+81	11	FSGS
+86	12	Schemas
+94	13	hat

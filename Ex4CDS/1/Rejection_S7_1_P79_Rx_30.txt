@@ -1,0 +1,11 @@
+0	0	Pat.
+5	1	in
+8	2	der
+12	3	Vergangenheit
+26	4	ohne
+31	5	Rejektion,
+42	6	ohne
+47	7	Adhaerenzschwirigkeiten
+70	8	bzgl.
+76	9	der
+80	10	IS.

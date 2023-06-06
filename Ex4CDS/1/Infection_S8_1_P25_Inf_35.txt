@@ -1,0 +1,4 @@
+0	0	Morbiditaet,
+12	1	schlecht
+21	2	eingestellter
+35	3	DM

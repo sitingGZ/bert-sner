@@ -1,0 +1,9 @@
+0	0	Zuletzt
+8	1	Oesophagitis,
+21	2	CMV-Infektion
+35	3	vor
+39	4	1
+41	5	Monat;
+48	6	CRP
+52	7	6
+54	8	mg/l

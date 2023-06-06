@@ -1,0 +1,11 @@
+0	0	Konstant
+9	1	langsam
+17	2	steigendes
+28	3	Krea
+33	4	auf
+37	5	>
+39	6	5,5
+43	7	mg/dl.
+50	8	HST
+54	9	172,
+59	10	steigend

@@ -1,0 +1,9 @@
+0	0	steigendes
+11	1	Krea
+16	2	ueber
+21	3	die
+25	4	Zeit,
+31	5	Herzinsuff.,
+44	6	Gewichtszunahme
+60	7	und
+64	8	Oedeme

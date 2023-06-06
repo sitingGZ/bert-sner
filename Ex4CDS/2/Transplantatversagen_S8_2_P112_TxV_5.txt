@@ -1,0 +1,6 @@
+0	0	ergibt
+7	1	sich
+12	2	aus
+16	3	A
+18	4	und
+22	5	B

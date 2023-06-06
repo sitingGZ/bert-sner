@@ -1,0 +1,12 @@
+0	0	Gute
+5	1	Funktion
+14	2	ohne
+19	3	unvorhergesehenes
+37	4	Aktuereignis
+50	5	(Thrombose,
+62	6	Infektion)
+73	7	kein
+78	8	Grund
+84	9	fuer
+88	10	Tx
+91	11	Verlust.

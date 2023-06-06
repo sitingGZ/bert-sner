@@ -1,0 +1,9 @@
+0	0	Gastroeinteritis
+17	1	vor
+21	2	11
+24	3	Monaten,
+33	4	zuletzt
+41	5	grippaler
+51	6	Infekt.
+59	7	CRP
+63	8	0,1

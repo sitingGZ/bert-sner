@@ -1,0 +1,12 @@
+0	0	Wegen
+6	1	der
+10	2	angegebenen
+22	3	Symptomatik
+34	4	(telefonisch)
+48	5	ist
+52	6	ein
+56	7	beginnender
+68	8	Infekt
+75	9	sehr
+80	10	gut
+84	11	moeglich.

@@ -1,0 +1,13 @@
+0	0	klinisch
+9	1	und
+13	2	anamnestisch
+26	3	kein
+31	4	Hinweis
+39	5	auf
+43	6	Probleme
+52	7	mit
+56	8	der
+60	9	IS
+63	10	oder
+68	11	deren
+74	12	Einnahme.

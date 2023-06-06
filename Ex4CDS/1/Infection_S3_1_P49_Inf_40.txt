@@ -1,0 +1,10 @@
+0	0	nachgewiesen
+13	1	bkv
+17	2	Nephritis,
+28	3	leukos
+35	4	norm,
+41	5	USTIX
+47	6	neg,
+52	7	aber
+57	8	crp
+61	9	norm

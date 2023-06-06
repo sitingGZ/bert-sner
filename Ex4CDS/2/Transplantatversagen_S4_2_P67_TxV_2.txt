@@ -1,0 +1,8 @@
+0	0	Tx
+3	1	vor
+7	2	6
+9	3	Monaten,
+18	4	Krea
+23	5	bei
+27	6	1,7
+31	7	stabil

@@ -1,0 +1,11 @@
+0	0	rez.
+5	1	HWI
+9	2	bereits
+17	3	bekannt
+25	4	und
+29	5	seit
+34	6	Tx
+37	7	ein
+41	8	Problem,
+50	9	rez.
+55	10	Antibiosen

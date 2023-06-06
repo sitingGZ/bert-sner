@@ -1,0 +1,8 @@
+0	0	Rejection:
+11	1	bisher
+18	2	keine
+24	3	Rejektionsgeschehen,
+45	4	keine
+51	5	Verlaufseintraege
+68	6	zu
+71	7	Rejectionen/DSA.

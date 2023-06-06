@@ -1,0 +1,8 @@
+0	0	stationaer
+10	1	bei
+14	2	ANV
+18	3	mit
+22	4	CMV
+26	5	Infekt
+33	6	und
+37	7	Diarrhoen,

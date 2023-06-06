@@ -1,0 +1,6 @@
+0	0	vorrangig
+10	1	pAVK
+15	2	Problematik,
+28	3	Vorgeschichte
+42	4	mit
+46	5	HWI

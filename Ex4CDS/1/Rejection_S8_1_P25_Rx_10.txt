@@ -1,0 +1,8 @@
+0	0	Stabile
+8	1	Situation
+18	2	unter
+24	3	Tac,
+29	4	MMF,
+34	5	Predni.
+42	6	Keine
+48	7	Proteinurie.

@@ -1,0 +1,4 @@
+0	0	Aktuell
+8	1	CRP
+12	2	nicht
+18	3	erhoeht.

@@ -1,0 +1,9 @@
+0	0	Erfreulicher
+13	1	Verlauf,
+22	2	gute
+27	3	TX
+30	4	Funktion,
+40	5	gute
+45	6	Compliance,
+57	7	zuletzt
+65	8	AvFistel-Verschluss.

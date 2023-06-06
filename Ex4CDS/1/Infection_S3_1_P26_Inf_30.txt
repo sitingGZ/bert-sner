@@ -1,0 +1,8 @@
+0	0	leukos
+7	1	norm,
+13	2	crp
+17	3	neg,
+22	4	kein
+27	5	Hinweis
+35	6	auf
+39	7	INefktion

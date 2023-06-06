@@ -1,0 +1,6 @@
+0	0	keine
+6	1	Rejektionen,
+19	2	stabiles
+28	3	Krea,
+34	4	keine
+40	5	PU

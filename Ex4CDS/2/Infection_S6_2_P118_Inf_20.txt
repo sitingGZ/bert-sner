@@ -1,0 +1,5 @@
+0	0	anamnestisch
+13	1	keine
+19	2	red
+23	3	flags
+29	4	diesbezueglich.

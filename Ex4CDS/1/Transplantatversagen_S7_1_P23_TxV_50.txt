@@ -1,0 +1,13 @@
+0	0	prinzipiell
+12	1	gutes
+18	2	Spenderorgan,
+32	3	aktuell
+40	4	unbefriedigende
+56	5	Tx
+59	6	Funktion,
+69	7	Sono
+74	8	eher
+79	9	Zeichen
+87	10	fuer
+91	11	akutes
+98	12	Problem

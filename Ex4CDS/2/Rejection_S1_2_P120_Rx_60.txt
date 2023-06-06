@@ -1,0 +1,13 @@
+0	0	Im
+3	1	Herbst
+10	2	2010
+15	3	bei
+19	4	Banff
+25	5	IIb
+29	6	UND
+33	7	hum
+37	8	Rj
+40	9	PPH
+44	10	und
+48	11	IvIG
+53	12	bekommen.

@@ -1,0 +1,10 @@
+0	0	wenige
+7	1	Infekte
+15	2	in
+18	3	der
+22	4	Vergangenkeit.
+37	5	Keine
+43	6	klinische
+53	7	Symptomatik
+65	8	fuer
+69	9	Infekt.

@@ -1,0 +1,8 @@
+0	0	Krea
+5	1	stagniert
+15	2	nach
+20	3	anfaenglich
+31	4	gutem
+37	5	Absinken
+46	6	nach
+51	7	Tx

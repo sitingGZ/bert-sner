@@ -1,0 +1,3 @@
+0	0	Stabile
+8	1	renale
+15	2	Situation.

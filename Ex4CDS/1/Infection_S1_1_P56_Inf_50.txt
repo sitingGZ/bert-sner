@@ -1,0 +1,6 @@
+0	0	Abszesse
+9	1	in
+12	2	der
+16	3	Vergangenheit
+30	4	plus
+35	5	HWIs.

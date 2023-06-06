@@ -1,0 +1,13 @@
+0	0	viele
+6	1	MM,
+10	2	aber
+15	3	sehr
+20	4	guter
+26	5	Krea
+31	6	Abfall
+38	7	nach
+43	8	NTX
+47	9	jedoch
+54	10	sehr
+59	11	frische
+67	12	NTX

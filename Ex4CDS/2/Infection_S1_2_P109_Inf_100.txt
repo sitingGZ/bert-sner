@@ -1,0 +1,9 @@
+0	0	Verlauf:
+9	1	NTX
+13	2	auf
+17	3	der
+21	4	M112
+26	5	als
+30	6	Aussenlieger
+42	7	bei
+46	8	ESBL-Infektion.

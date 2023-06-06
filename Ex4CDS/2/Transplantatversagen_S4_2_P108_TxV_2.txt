@@ -1,0 +1,13 @@
+0	0	Tx
+3	1	vor
+7	2	4
+9	3	Wochen,
+17	4	Krea
+22	5	prae
+26	6	Tx
+29	7	4,6
+33	8	jetzt
+39	9	stabilisiert
+52	10	bei
+56	11	1,5
+60	12	mg/dl

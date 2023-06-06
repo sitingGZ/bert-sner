@@ -1,0 +1,3 @@
+0	0	Haematom,
+9	1	AB0i
+14	2	Tx

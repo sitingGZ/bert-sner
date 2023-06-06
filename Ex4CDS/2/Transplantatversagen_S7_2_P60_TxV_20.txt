@@ -1,0 +1,7 @@
+0	0	chronische
+11	1	Tx
+14	2	Schaedigung
+25	3	mit
+29	4	zuletzt
+37	5	erneuter
+46	6	Verschlechterung

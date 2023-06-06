@@ -1,0 +1,15 @@
+0	0	In
+3	1	der
+7	2	Anamnese
+16	3	finden
+23	4	sich
+28	5	rezidivierende,
+44	6	auch
+49	7	asymptomatische
+65	8	Infekte
+73	9	bei
+77	10	einem
+83	11	Diabetes
+92	12	mellitus
+101	13	als
+105	14	Grunderkrankung.

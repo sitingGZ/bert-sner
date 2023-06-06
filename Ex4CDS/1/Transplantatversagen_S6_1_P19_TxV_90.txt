@@ -1,0 +1,17 @@
+0	0	Klinisch
+9	1	13
+12	2	kg
+15	3	+
+17	4	und
+21	5	V.a.
+26	6	kardiorenale
+39	7	Dekompensation,
+55	8	moeglicherweise
+70	9	(passagere)
+82	10	Dialysepflicht
+97	11	zur
+101	12	Gewichtsreduktion
+119	13	notwendig
+129	14	bei
+133	15	klinischen
+144	16	Symptomen.

@@ -1,0 +1,7 @@
+0	0	Infekt
+7	1	wirkt
+13	2	ueberstanden,
+26	3	Leukos
+33	4	udn
+37	5	CRP,
+42	6	negativ

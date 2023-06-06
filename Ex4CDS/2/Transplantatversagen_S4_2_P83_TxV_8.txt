@@ -1,0 +1,9 @@
+0	0	Krea
+5	1	aktuell
+13	2	2,7.
+18	3	Zuvor
+24	4	3,8;
+29	5	jedoch
+36	6	mittelfristig
+50	7	steigende
+60	8	Tendenz

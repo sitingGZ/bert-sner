@@ -1,0 +1,8 @@
+0	0	stabiler
+9	1	Verlauf
+17	2	ueber
+22	3	Jahr,
+28	4	daher
+34	5	kein
+39	6	hohes
+45	7	Rejektionsrisiko.

@@ -1,0 +1,15 @@
+0	0	CMV
+4	1	nachweisbar,
+17	2	somit
+23	3	moegl.
+29	4	Risiko
+36	5	fuer
+40	6	syst.
+46	7	Infektion,
+57	8	aber
+62	9	aktuell
+70	10	crp
+74	11	nicht
+80	12	nachweisbar,
+93	13	leukos
+100	14	norm

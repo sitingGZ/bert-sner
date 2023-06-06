@@ -1,0 +1,9 @@
+0	0	stabiler
+9	1	Verlauf,
+18	2	CyA
+22	3	Spiegel
+30	4	gut,
+35	5	Krea
+40	6	stabil,
+48	7	Proteinurie
+60	8	stabil

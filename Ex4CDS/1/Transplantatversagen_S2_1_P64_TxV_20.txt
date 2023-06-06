@@ -1,0 +1,7 @@
+0	0	sehr
+5	1	gute
+10	2	stabile
+18	3	Tx
+21	4	Funktion
+30	5	seit
+35	6	Jahren

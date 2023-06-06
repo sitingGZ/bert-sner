@@ -1,0 +1,12 @@
+0	0	erweitertes
+12	1	NBKS
+17	2	sonographisch,
+32	3	sonst
+38	4	kein
+43	5	Hinweis
+51	6	auf
+55	7	Abflussproblematik,
+75	8	daher
+81	9	minimal
+89	10	erhoehtes
+98	11	INfektrisiko.

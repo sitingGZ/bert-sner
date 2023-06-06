@@ -1,0 +1,16 @@
+0	0	weiterhin
+10	1	CRP,
+15	2	zuvor
+21	3	stark
+27	4	erhoehtes
+36	5	CRP
+40	6	(evtl
+46	7	nicht
+52	8	austherapierte
+67	9	Infektion?),
+80	10	jedoch
+87	11	keine
+93	12	Leukos,
+101	13	klinisch
+110	14	gutes
+116	15	Befinden

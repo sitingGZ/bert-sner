@@ -1,0 +1,9 @@
+0	0	Keine
+6	1	Incompliance
+19	2	bisher
+26	3	keine
+32	4	Rejectionen,
+45	5	keine
+51	6	Verlaufseintraege
+68	7	zu
+71	8	Rejectionen/DSA.

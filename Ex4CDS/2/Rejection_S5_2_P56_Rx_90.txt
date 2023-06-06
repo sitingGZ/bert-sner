@@ -1,0 +1,13 @@
+0	0	aktuell
+8	1	stationaer
+18	2	bei
+22	3	ANV,
+27	4	PU,
+31	5	DSA
+35	6	bei
+39	7	zellulaerer
+50	8	und
+54	9	humoraler
+64	10	Rejektion,
+75	11	C4D
+79	12	pos

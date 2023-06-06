@@ -1,0 +1,11 @@
+0	0	Tx
+3	1	vor
+7	2	5
+9	3	Jahren,
+17	4	5MM,
+22	5	Akute
+28	6	Rejektion
+38	7	im
+41	8	Jahr
+46	9	nach
+51	10	Tx

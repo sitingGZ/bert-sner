@@ -1,0 +1,11 @@
+0	0	Bisher
+7	1	immer
+13	2	gute
+18	3	Erholung
+27	4	der
+31	5	Nierenfunktion
+46	6	und
+50	7	keine
+56	8	Hinweise
+65	9	auf
+69	10	Rejeketionen.

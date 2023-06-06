@@ -1,0 +1,10 @@
+0	0	ANV,
+5	1	PU,
+9	2	DSA
+13	3	bei
+17	4	zellulaerer
+28	5	und
+32	6	humoraler
+42	7	Rejektion,
+53	8	C4D
+57	9	pos

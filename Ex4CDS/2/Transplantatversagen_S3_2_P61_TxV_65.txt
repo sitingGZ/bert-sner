@@ -1,0 +1,5 @@
+0	0	schwankende
+12	1	Werte,
+19	2	aktuell
+27	3	V.a.
+32	4	Rejektion

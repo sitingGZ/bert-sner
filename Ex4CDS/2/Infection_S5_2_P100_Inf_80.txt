@@ -1,0 +1,8 @@
+0	0	rezidiv.
+9	1	HWI
+13	2	und
+17	3	aktuell
+25	4	stationaer
+35	5	bei
+39	6	Urosepsis
+49	7	(?)

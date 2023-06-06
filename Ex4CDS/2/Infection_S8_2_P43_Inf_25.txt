@@ -1,0 +1,4 @@
+0	0	haeufiger
+9	1	Infekte
+17	2	und
+21	3	Hospitalisierung

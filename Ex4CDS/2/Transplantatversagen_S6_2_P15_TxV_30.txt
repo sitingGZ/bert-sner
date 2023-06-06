@@ -1,0 +1,12 @@
+0	0	erstmal
+8	1	einigermassen
+21	2	zufriedenstellende
+40	3	Funktion
+49	4	mit
+53	5	Krea
+58	6	<
+60	7	2
+62	8	kurz
+67	9	Entlassung
+78	10	nach
+83	11	NTX...

@@ -1,0 +1,10 @@
+0	0	rez.
+5	1	Infekt
+12	2	bei
+16	3	multiple
+25	4	voroperiertem
+39	5	Bauch
+45	6	mit
+49	7	kongenitaler
+62	8	urol.
+68	9	Grunderkrankung

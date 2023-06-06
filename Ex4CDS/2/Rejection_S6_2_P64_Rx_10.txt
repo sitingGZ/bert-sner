@@ -1,0 +1,10 @@
+0	0	Sono
+5	1	gut,
+10	2	klinisch
+19	3	guter
+25	4	AZ,
+29	5	IS
+32	6	mit
+36	7	anscheinend
+48	8	zuverlaessiger
+62	9	Einnahme.

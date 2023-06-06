@@ -1,0 +1,2 @@
+0	0	Blasenentleerungsstoerung,
+26	1	Harnstauproblematik

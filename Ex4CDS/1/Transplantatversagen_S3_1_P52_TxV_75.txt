@@ -1,0 +1,6 @@
+0	0	schlechte
+10	1	FUnktionsaufnahme,
+29	2	NiBi
+34	3	mit
+38	4	hypoxischem
+50	5	schaden

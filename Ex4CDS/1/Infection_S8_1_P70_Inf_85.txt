@@ -1,0 +1,5 @@
+0	0	Florider
+9	1	Infekt
+16	2	und
+20	3	steigendes
+31	4	CRP

@@ -1,0 +1,11 @@
+0	0	eher
+5	1	unwahrscheinlich,
+23	2	da
+26	3	unter
+32	4	sehr
+37	5	hoher
+43	6	IS
+46	7	(Endoxan
+55	8	bei
+59	9	IgA
+63	10	NP)

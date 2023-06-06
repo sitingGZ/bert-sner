@@ -1,0 +1,14 @@
+0	0	stabile
+8	1	Funktion,
+18	2	aber
+23	3	DGF
+27	4	und
+31	5	12/2019
+39	6	Borderline-Rx,
+54	7	aktuell
+62	8	Krea
+67	9	stabil
+74	10	bei
+78	11	1,5,
+83	12	sono
+88	13	opB

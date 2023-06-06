@@ -1,0 +1,9 @@
+0	0	keine
+6	1	Rejektionsereignisse,
+28	2	DSA
+32	3	nicht
+38	4	bekannt,
+47	5	PU
+50	6	niedrig,
+59	7	gutes
+65	8	Krea.

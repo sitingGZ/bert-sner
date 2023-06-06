@@ -1,0 +1,7 @@
+0	0	keine
+6	1	Rejektionen,
+19	2	Full
+24	3	House
+30	4	Niere,
+37	5	keine
+43	6	HLA

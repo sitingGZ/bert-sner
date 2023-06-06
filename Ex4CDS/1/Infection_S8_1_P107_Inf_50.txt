@@ -1,0 +1,8 @@
+0	0	ergibt
+7	1	sich
+12	2	von
+16	3	der
+20	4	Anamnese
+29	5	und
+33	6	Labor
+39	7	(Verlauf)

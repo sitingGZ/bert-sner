@@ -1,0 +1,9 @@
+0	0	stationaer
+10	1	bei
+14	2	Pneumonie,
+25	3	Leukozytose,
+38	4	rezidiv.
+47	5	Infektsymptomatik
+65	6	Pulmo
+71	7	und
+75	8	HWI

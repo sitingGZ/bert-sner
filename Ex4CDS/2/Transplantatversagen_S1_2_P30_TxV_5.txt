@@ -1,0 +1,6 @@
+0	0	Krea
+5	1	erst
+10	2	mal
+14	3	stabil
+21	4	bei
+25	5	1.88

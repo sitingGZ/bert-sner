@@ -1,0 +1,6 @@
+0	0	Lebendspende
+13	1	mit
+17	2	noch
+22	3	festzulegender
+37	4	Kreatinin-
+48	5	Baseline

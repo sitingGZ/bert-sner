@@ -1,0 +1,7 @@
+0	0	Borderline
+11	1	Rejektion
+21	2	im
+24	3	stationaeren
+36	4	Aufenthalt
+47	5	nach
+52	6	TX

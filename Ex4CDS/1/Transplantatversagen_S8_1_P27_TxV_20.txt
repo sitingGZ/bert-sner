@@ -1,0 +1,10 @@
+0	0	sehr
+5	1	gute
+10	2	Tx-Funktion,
+23	3	es
+26	4	deutet
+33	5	sich
+38	6	aber
+43	7	kein
+48	8	Tx-Versagen
+60	9	an

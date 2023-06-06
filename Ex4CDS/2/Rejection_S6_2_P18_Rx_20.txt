@@ -1,0 +1,11 @@
+0	0	ANV
+4	1	scheinen
+13	2	bisher
+20	3	eher
+25	4	praerenal
+34	5	im
+37	6	Rahmen
+44	7	von
+48	8	Exsikkose
+58	9	unter
+64	10	Infekten.

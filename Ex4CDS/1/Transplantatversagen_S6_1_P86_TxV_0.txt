@@ -1,0 +1,6 @@
+0	0	Pat.compliance
+15	1	und
+19	2	bisheriger
+30	3	Verlauf
+38	4	erscheinen
+49	5	unproblematisch.

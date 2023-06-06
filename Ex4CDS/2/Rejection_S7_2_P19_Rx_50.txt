@@ -1,0 +1,3 @@
+0	0	steigende
+10	1	Retentionswerte,
+27	2	PU

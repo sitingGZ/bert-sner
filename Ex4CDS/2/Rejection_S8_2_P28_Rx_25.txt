@@ -1,0 +1,9 @@
+0	0	25
+3	1	frische
+11	2	TX,
+15	3	mehrere
+23	4	Komplikationen
+38	5	und
+42	6	mehrmals
+51	7	im
+54	8	KH

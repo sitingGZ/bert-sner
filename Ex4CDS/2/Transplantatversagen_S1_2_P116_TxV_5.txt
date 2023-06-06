@@ -1,0 +1,16 @@
+0	0	Gering,
+8	1	Niere
+14	2	schien
+21	3	erst
+26	4	mal
+30	5	nach
+35	6	Tx
+38	7	zu
+41	8	funktionieren,
+56	9	Krea
+61	10	faellt
+67	11	ab,
+71	12	dann
+76	13	Anstieg
+84	14	wegen
+90	15	Rejektion

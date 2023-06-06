@@ -1,0 +1,10 @@
+0	0	Tx
+3	1	vor
+7	2	9
+9	3	Jahren,
+17	4	3MM,
+22	5	Nierenfunktion
+37	6	stabil.
+45	7	Immunsuppression
+62	8	im
+65	9	Zielbereich

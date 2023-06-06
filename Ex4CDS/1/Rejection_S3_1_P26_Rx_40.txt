@@ -1,0 +1,8 @@
+0	0	krea
+5	1	2,5,
+10	2	stagnation,
+22	3	aber
+27	4	in
+30	5	NibI
+35	6	keine
+41	7	Rx

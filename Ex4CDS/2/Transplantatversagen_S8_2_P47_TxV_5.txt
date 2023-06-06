@@ -1,0 +1,11 @@
+0	0	ergibt
+7	1	sich
+12	2	aus
+16	3	A
+18	4	und
+22	5	zusaetzlich
+33	6	jungere
+41	7	Patientin
+51	8	ohne
+56	9	gravierende
+68	10	Kommorbiditaet.

@@ -1,0 +1,10 @@
+0	0	Klinisch
+9	1	werden
+16	2	keine
+22	3	Symptome
+31	4	beklagt,
+40	5	der
+44	6	Cya
+48	7	Spiegel
+56	8	ist
+60	9	niedrig.

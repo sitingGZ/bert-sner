@@ -1,0 +1,17 @@
+0	0	Zuletzt
+8	1	erneut
+15	2	Harnwegsinfekt.
+31	3	Reduktion
+41	4	der
+45	5	IS
+48	6	im
+51	7	letzten
+59	8	Jahr
+64	9	bei
+68	10	Infekten.
+78	11	Jedoch
+85	12	Laborchemisch
+99	13	kein
+104	14	stark
+110	15	erhoehtes
+119	16	CRP.

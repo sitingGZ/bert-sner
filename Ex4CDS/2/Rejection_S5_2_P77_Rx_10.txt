@@ -1,0 +1,11 @@
+0	0	keine
+6	1	Vorgeschichte
+20	2	von
+24	3	Rejektionen,
+37	4	aber
+42	5	DSA,
+47	6	geringe
+55	7	PU,
+59	8	vorrangig
+69	9	kardiales
+79	10	Problem

@@ -1,0 +1,14 @@
+0	0	aktuell
+8	1	nach
+13	2	Ischaemischem
+26	3	Schlaganfall
+39	4	auf
+43	5	ITS.
+48	6	Nicht
+54	7	intubiert
+64	8	und
+68	9	beatment
+77	10	aber
+82	11	wohl
+87	12	mit
+91	13	Aspirationen.

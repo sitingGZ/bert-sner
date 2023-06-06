@@ -1,0 +1,15 @@
+0	0	zuletzt
+8	1	stabile
+16	2	Tx
+19	3	Funktion,
+29	4	Rejektionen
+41	5	eher
+46	6	in
+49	7	der
+53	8	fruehen
+60	9	Phase
+66	10	nach
+71	11	Tx
+74	12	gewesen,
+83	13	niedrige
+92	14	PU

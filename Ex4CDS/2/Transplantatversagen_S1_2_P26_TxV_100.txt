@@ -1,0 +1,9 @@
+0	0	FSGS
+5	1	Rezidiv
+13	2	mit
+17	3	extrem
+24	4	schlechter
+35	5	Prognose
+44	6	fuer
+48	7	das
+52	8	NTX

@@ -1,0 +1,3 @@
+0	0	Intensivierung
+15	1	der
+19	2	IS.

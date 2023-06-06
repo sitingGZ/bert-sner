@@ -1,0 +1,5 @@
+0	0	aktuell
+8	1	GG
+11	2	Problem
+19	3	unter
+25	4	Antibiose

@@ -1,0 +1,5 @@
+0	0	Z.n.
+5	1	kompliz.
+14	2	Infekt.
+22	3	Rezdiv
+29	4	moeglich.

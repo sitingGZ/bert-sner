@@ -1,0 +1,8 @@
+0	0	klinisch
+9	1	kein
+14	2	Hinweis,
+23	3	BKV
+27	4	neg,
+32	5	EBV
+36	6	?
+38	7	aktuell

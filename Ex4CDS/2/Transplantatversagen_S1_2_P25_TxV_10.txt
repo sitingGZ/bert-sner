@@ -1,0 +1,8 @@
+0	0	Krea
+5	1	weitestgehend
+19	2	stabil
+26	3	in
+29	4	gutem
+35	5	Bereich
+43	6	2,4
+47	7	mg/dl

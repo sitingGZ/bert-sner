@@ -1,0 +1,6 @@
+0	0	stabiler
+9	1	Verlauf
+17	2	3
+19	3	Jahren
+26	4	nach
+31	5	NTX

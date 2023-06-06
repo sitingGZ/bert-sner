@@ -1,0 +1,5 @@
+0	0	Prostatabiopsie
+16	1	vor
+20	2	kurzem
+27	3	bei
+31	4	Hyperplasie

@@ -1,0 +1,14 @@
+0	0	low
+4	1	risk,
+10	2	keine
+16	3	Rejektionen,
+29	4	Krea
+34	5	stabil,
+42	6	keine
+48	7	PU,
+52	8	TX
+55	9	seit
+60	10	7
+62	11	Jahren,
+70	12	keine
+76	13	HLA

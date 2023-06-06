@@ -1,0 +1,8 @@
+0	0	-Patient
+9	1	hat
+13	2	immer
+19	3	wieder
+26	4	Husten
+33	5	mit
+37	6	gelblichem
+48	7	Auswurf.

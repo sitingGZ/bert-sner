@@ -1,0 +1,7 @@
+0	0	insgesamt
+10	1	stabiler
+19	2	Verlauf,
+28	3	abgesehen
+38	4	von
+42	5	gelegentlichen
+57	6	INfekten.

@@ -1,0 +1,7 @@
+0	0	Aktuell
+8	1	Cyclogabe
+18	2	mit
+22	3	Leukopenie.
+34	4	Steigerung
+45	5	der
+49	6	Infektanfaelligkeit.

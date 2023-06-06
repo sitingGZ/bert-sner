@@ -1,0 +1,9 @@
+0	0	gute
+5	1	Compliance,
+17	2	bisher
+24	3	keine
+30	4	Rejectionen,
+43	5	keine
+49	6	Verlaufseintraege
+66	7	zu
+69	8	Rejectionen/DSA.

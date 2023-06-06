@@ -1,0 +1,11 @@
+0	0	keine
+6	1	Dynamik,
+15	2	keine
+21	3	signifikante
+34	4	Proteinurie,
+47	5	trotz
+53	6	der
+57	7	dualen
+64	8	IS
+67	9	(kein
+73	10	MMF)

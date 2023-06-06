@@ -1,0 +1,14 @@
+0	0	keine
+6	1	Rejektionen
+18	2	der
+22	3	letzten
+30	4	Jahre,
+37	5	stabile
+45	6	TX
+48	7	Funktion,
+58	8	Krea
+63	9	1,5,
+68	10	PU
+71	11	neg,
+76	12	HLA
+80	13	neg

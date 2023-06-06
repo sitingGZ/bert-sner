@@ -1,0 +1,7 @@
+0	0	stabile
+8	1	Funktion,
+18	2	keine
+24	3	Protenurie,
+36	4	noch
+41	5	nie
+45	6	NTX-Versagen

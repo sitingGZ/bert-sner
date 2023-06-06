@@ -1,0 +1,15 @@
+0	0	Pat
+4	1	steht
+10	2	vor
+14	3	Beginn
+21	4	Chemotherapie,
+36	5	in
+39	6	diesem
+46	7	Rahmen
+53	8	bei
+57	9	Leukopenie
+68	10	und
+72	11	bestehender
+84	12	Immunsup
+93	13	Infektionen
+105	14	moeglich

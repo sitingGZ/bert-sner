@@ -1,0 +1,11 @@
+0	0	Lymphozele
+11	1	als
+15	2	Komplikation
+28	3	mit
+32	4	operativer
+43	5	Sanierung
+53	6	->
+56	7	daher
+62	8	ewtas
+68	9	erhoehtes
+77	10	INfektionsrisiko.

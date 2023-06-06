@@ -1,0 +1,4 @@
+0	0	stabile
+8	1	Situation,
+19	2	keine
+25	3	Proteinurie

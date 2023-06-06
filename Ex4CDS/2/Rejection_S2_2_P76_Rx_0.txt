@@ -1,0 +1,6 @@
+0	0	keine
+6	1	Hinweise,
+16	2	Tx
+19	3	Funktion
+28	4	stabil
+35	5	gut

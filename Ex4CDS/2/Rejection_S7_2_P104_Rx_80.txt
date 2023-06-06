@@ -1,0 +1,3 @@
+0	0	PU,
+4	1	Infekte,
+13	2	Transplantatversagen

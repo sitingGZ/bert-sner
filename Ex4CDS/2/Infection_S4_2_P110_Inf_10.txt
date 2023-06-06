@@ -1,0 +1,14 @@
+0	0	Tx
+3	1	vor
+7	2	3
+9	3	Wochen.
+17	4	keine
+23	5	Infektzeichen
+37	6	im
+40	7	Labor,
+47	8	keine
+53	9	klinischen
+64	10	Daten.
+71	11	Aktuell
+79	12	stationaer
+89	13	post-Tx

@@ -1,0 +1,17 @@
+0	0	Zystennieren
+13	1	als
+17	2	Grunderkrankung
+33	3	bergen
+40	4	ein
+44	5	erhoehtes
+53	6	Infektionsrisiko,
+71	7	hartnaeckigere
+85	8	Infektionen.
+98	9	Infekte
+106	10	in
+109	11	Vorgeschichte
+123	12	sowie
+129	13	Diabetes
+138	14	mellitus
+147	15	bestaetigen/beguenstigen
+170	16	dies.

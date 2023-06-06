@@ -1,0 +1,8 @@
+0	0	Fruehe
+6	1	Phase
+12	2	nach
+17	3	NTx
+21	4	->
+24	5	allgemein
+34	6	erhoehtes
+43	7	Infektrisiko

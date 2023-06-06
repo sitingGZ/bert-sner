@@ -1,0 +1,13 @@
+0	0	krea
+5	1	ansteigend
+16	2	1,2
+20	3	->
+23	4	3,1
+27	5	akut
+32	6	in
+35	7	6
+37	8	Tagen,
+44	9	Pat
+48	10	auf
+52	11	ITS
+56	12	intubiert

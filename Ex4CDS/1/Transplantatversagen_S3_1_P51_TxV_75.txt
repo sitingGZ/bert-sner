@@ -1,0 +1,17 @@
+0	0	aktuell
+8	1	akuter
+15	2	Krea-Anstieg,
+29	3	V.a.
+34	4	Rx
+37	5	plus
+42	6	dies
+47	7	ist
+51	8	die
+55	9	2.
+58	10	NTX
+62	11	und
+66	12	bereits
+74	13	NiBi
+79	14	07/2011
+87	15	mit
+91	16	ah3

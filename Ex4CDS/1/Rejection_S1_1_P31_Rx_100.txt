@@ -1,0 +1,14 @@
+0	0	aktuell
+8	1	ablaufendes
+20	2	Rejectiongeschehen
+39	3	in
+42	4	der
+46	5	Biopsie.
+55	6	Therapie
+64	7	der
+68	8	Humoralen
+78	9	Rejction
+87	10	eher
+92	11	wenig
+98	12	Erfolg
+105	13	Versprechend.

@@ -1,0 +1,11 @@
+0	0	Tx-Versagen:
+13	1	Krea
+18	2	langsam
+26	3	progredient
+38	4	auf
+42	5	1,7;
+47	6	zunehmende
+58	7	Proteiurie,
+70	8	Biopsie:
+79	9	vorrangig
+89	10	CNI-Tox

@@ -1,0 +1,13 @@
+0	0	Aktuell
+8	1	Infekt
+15	2	mit
+19	3	Nachweis
+28	4	von
+32	5	E
+34	6	Coli
+39	7	und
+43	8	Pseudomonas
+55	9	im
+58	10	TBS-
+63	11	CRP
+67	12	99mg/dl

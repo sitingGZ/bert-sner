@@ -1,0 +1,13 @@
+0	0	Bereits
+8	1	biopsiert
+18	2	und
+22	3	kein
+27	4	Hinweis
+35	5	fuer
+39	6	Rejektion,
+50	7	Rekurrenz
+60	8	der
+64	9	IgAN
+69	10	und
+73	11	hoch
+78	12	immunsupprimiert.

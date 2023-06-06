@@ -1,0 +1,6 @@
+0	0	stabile
+8	1	NTX
+12	2	Funktion.
+22	3	keine
+28	4	Abstossung
+38	5	bisher

@@ -1,0 +1,17 @@
+0	0	Leukos
+7	1	normwertig
+18	2	aber
+23	3	ansteigende
+35	4	Tendenz,
+44	5	CRP
+48	6	negativ,
+57	7	aktuell
+65	8	klinisch
+74	9	keine
+80	10	infektzeichen,
+95	11	aber
+100	12	Kreaansteig
+112	13	und
+116	14	Z.b.
+121	15	mehrfach
+130	16	HWI

@@ -1,0 +1,13 @@
+0	0	guter
+6	1	Verlauf,
+15	2	keine
+21	3	Rejektionsprobleme
+40	4	bisher,
+48	5	keine
+54	6	Ereignisse
+65	7	von
+69	8	ANV,
+74	9	keine
+80	10	HLA,
+85	11	geringe
+93	12	PU

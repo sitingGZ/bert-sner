@@ -1,0 +1,8 @@
+0	0	Krea
+5	1	leicht
+12	2	steigend
+21	3	auf
+25	4	0.96
+30	5	mg/dl,
+37	6	Proteinurie
+49	7	1,2g/gKrea

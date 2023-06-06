@@ -1,0 +1,6 @@
+0	0	keine
+6	1	erhoehte
+14	2	Infektraten
+26	3	bisher,
+34	4	niedrige
+43	5	IS,

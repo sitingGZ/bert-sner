@@ -1,0 +1,10 @@
+0	0	stabile
+8	1	Tx
+11	2	Funktion
+20	3	jedoch
+27	4	sehr
+32	5	grosse
+38	6	Schwankungen
+51	7	im
+54	8	Prgraf-Spiegel
+69	9	bekannt

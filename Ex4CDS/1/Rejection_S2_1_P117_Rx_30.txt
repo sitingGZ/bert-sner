@@ -1,0 +1,9 @@
+0	0	progrediente
+13	1	schleichende
+26	2	Tx
+29	3	Verschlechterung
+46	4	seit
+51	5	Jahren,
+59	6	keine
+65	7	steilen
+73	8	Anstiege

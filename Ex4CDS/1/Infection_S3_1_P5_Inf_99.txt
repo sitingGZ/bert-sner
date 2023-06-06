@@ -1,0 +1,15 @@
+0	0	CRP
+4	1	ansteigend,
+16	2	jetzt
+22	3	99,9,
+28	4	leukos
+35	5	ansteigend
+46	6	14,5
+51	7	(11,0),
+59	8	Pat
+63	9	anscheinend
+75	10	intubiert
+85	11	mit
+89	12	Magensonde
+100	13	auf
+104	14	ITS

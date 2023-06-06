@@ -1,0 +1,11 @@
+0	0	rezidiv.
+9	1	Sinusitis,
+20	2	wegen
+26	3	Krea
+31	4	Anstieg
+39	5	wdh.
+44	6	Kortisonstosstherapien
+66	7	und
+70	8	ggf.
+75	9	weitere
+83	10	Behandlungen

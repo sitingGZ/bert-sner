@@ -1,0 +1,8 @@
+0	0	Zuletzt
+8	1	Pneumonie,
+19	2	Tumorerkrankung:
+36	3	Oesophagus
+46	4	Ca
+49	5	,
+51	6	CRP
+55	7	0,06

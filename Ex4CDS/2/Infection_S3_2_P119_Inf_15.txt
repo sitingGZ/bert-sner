@@ -1,0 +1,9 @@
+0	0	normwertige
+12	1	Leukos
+19	2	und
+23	3	CRP,
+28	4	klinisch
+37	5	kein
+42	6	Anhalt
+49	7	fuer
+53	8	Infektion

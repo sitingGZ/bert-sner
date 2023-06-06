@@ -1,0 +1,11 @@
+0	0	progrediente
+13	1	schleichende
+26	2	Tx
+29	3	Verschlechterung
+46	4	seit
+51	5	Jahren
+58	6	mit
+62	7	bei
+66	8	grenzwertiger
+80	9	Tx
+83	10	Funktion

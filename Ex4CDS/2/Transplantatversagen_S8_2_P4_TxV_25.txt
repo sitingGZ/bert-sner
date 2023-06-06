@@ -1,0 +1,5 @@
+0	0	reduzierte
+11	1	eGFR,
+17	2	stattgehabte
+30	3	Rejektion,
+41	4	infektiol.kompl.

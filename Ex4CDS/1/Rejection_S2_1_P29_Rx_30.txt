@@ -1,0 +1,10 @@
+0	0	Z.n.
+5	1	Borderline
+16	2	Rejektion
+26	3	vor
+30	4	4
+32	5	Jahren,
+40	6	danach
+47	7	eher
+52	8	stabiler
+61	9	Verlauf

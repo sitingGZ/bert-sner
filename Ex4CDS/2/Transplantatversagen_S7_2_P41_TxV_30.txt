@@ -1,0 +1,5 @@
+0	0	chronisch
+10	1	geschaedigtes
+23	2	Transplantat
+36	3	(s.
+40	4	Vorbiopsie)

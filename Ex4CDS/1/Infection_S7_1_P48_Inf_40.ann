@@ -1,0 +1,8 @@
+T2	Condition 43 55	Infektrisiko
+T1	Tx_low 0 20	Fruehe Phase nach NTx
+A2	Risk T1 increase_risk_factor
+T4	Conclusion 24 55	allgemein erhoehtes Infektrisiko
+T3	Condition 67 90	CMV Risikokonstellation
+A3	Risk T3 increase_risk_factor
+T5	Temporal 0 55;56 90	Fruehe Phase nach NTx -> allgemein erhoehtes Infektrisiko Zusaetzlich CMV Risikokonstellation
+A4	Temporal_Element T5 present

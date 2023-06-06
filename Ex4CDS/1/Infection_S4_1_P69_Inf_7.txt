@@ -1,0 +1,7 @@
+0	0	Zuletzt
+8	1	CRP
+12	2	nicht
+18	3	erhoeht.
+26	4	Wohlbefinden.
+40	5	Keine
+46	6	Probleme.

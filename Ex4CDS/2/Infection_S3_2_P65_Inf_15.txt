@@ -1,0 +1,6 @@
+0	0	Leukos
+7	1	und
+11	2	CRP
+15	3	negativ,
+24	4	USTIX
+30	5	negativ

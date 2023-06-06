@@ -1,0 +1,6 @@
+0	0	bisher
+7	1	keine
+13	2	Infekt
+20	3	Probleme,
+30	4	niedriges
+40	5	IFP

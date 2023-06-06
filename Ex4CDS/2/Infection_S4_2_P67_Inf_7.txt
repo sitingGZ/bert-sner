@@ -1,0 +1,12 @@
+0	0	Salmonellenenteritis
+21	1	vor
+25	2	4
+27	3	Monaten,
+36	4	Aktuell
+44	5	Schnupfen,
+55	6	sonst
+61	7	keine
+67	8	Infektzeichen,
+82	9	CRP
+86	10	0,9
+90	11	mg/l

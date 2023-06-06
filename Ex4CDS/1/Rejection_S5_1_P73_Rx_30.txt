@@ -1,0 +1,5 @@
+0	0	progrediente
+13	1	PU
+16	2	DD
+19	3	IgA
+23	4	Rezidiv

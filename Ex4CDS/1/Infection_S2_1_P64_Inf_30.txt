@@ -1,0 +1,6 @@
+0	0	keine
+6	1	rez.
+11	2	Infekte
+19	3	in
+22	4	der
+26	5	Vorgeschichte

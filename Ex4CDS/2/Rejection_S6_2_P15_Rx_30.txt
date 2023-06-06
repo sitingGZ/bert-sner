@@ -1,0 +1,7 @@
+0	0	Diarrhoen
+10	1	als
+14	2	Hinweis
+22	3	auf
+26	4	gute
+31	5	IMPDH
+37	6	Suppression.

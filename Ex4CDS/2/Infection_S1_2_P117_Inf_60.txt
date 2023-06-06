@@ -1,0 +1,11 @@
+0	0	hatte
+6	1	am
+9	2	23.02
+15	3	Fieber-
+23	4	Reinfekt
+32	5	wahrscheinlich,
+48	6	mehrmals
+57	7	Cholangitis,
+70	8	immer
+76	9	wieder
+83	10	ABX

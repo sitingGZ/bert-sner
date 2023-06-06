@@ -1,0 +1,14 @@
+0	0	Tx
+3	1	vor
+7	2	6
+9	3	Jahren,
+17	4	3MM,
+22	5	bekannte
+31	6	DSA,
+36	7	Krea
+41	8	langsam
+49	9	progredient
+61	10	auf
+65	11	1,7;
+70	12	zunehmende
+81	13	Proteiurie

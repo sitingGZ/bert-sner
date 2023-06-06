@@ -1,0 +1,4 @@
+0	0	Abstossung
+10	1	mit
+14	2	zellul.+humoralen
+32	3	Komponenten.

@@ -1,0 +1,9 @@
+0	0	Gutes
+6	1	Krea,
+12	2	unauffaelliges
+26	3	Sono,
+32	4	stabile
+40	5	Tac
+44	6	Spiegel,
+53	7	Patient
+61	8	compliant

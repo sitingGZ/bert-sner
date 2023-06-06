@@ -1,0 +1,7 @@
+0	0	vordergruendig
+14	1	Infekt
+21	2	->
+24	3	Behandlung
+35	4	eingeleitet,
+48	5	Reversibilitaet
+63	6	wahrscheinlich

@@ -1,0 +1,10 @@
+0	0	CRP
+4	1	bereits
+12	2	erhoeht,
+20	3	rez.
+25	4	Infekte
+33	5	in
+36	6	den
+40	7	Monaten
+48	8	und
+52	9	Jahren

@@ -1,0 +1,7 @@
+0	0	Rejektion
+10	1	nur
+14	2	kurz
+19	3	nach
+24	4	TX,
+28	5	reduzierte
+39	6	IS

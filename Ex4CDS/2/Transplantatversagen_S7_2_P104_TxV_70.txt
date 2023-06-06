@@ -1,0 +1,11 @@
+0	0	Transplantatversagen,
+22	1	chron.
+29	2	Tx
+32	3	Schaedigung,
+44	4	Rj
+47	5	in
+50	6	der
+54	7	Vorgeschichte
+68	8	,
+70	9	rez.
+75	10	Urosespis

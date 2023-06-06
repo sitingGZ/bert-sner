@@ -1,0 +1,12 @@
+0	0	3
+2	1	Infekte
+10	2	mit
+14	3	CRP
+18	4	>
+20	5	100
+24	6	mg/l
+29	7	in
+32	8	den
+36	9	letzten
+44	10	5
+46	11	Jahren.

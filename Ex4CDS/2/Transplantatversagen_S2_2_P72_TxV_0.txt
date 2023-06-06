@@ -1,0 +1,5 @@
+0	0	stabile
+8	1	Tx
+11	2	Funktion,
+21	3	Pat
+25	4	beschwerdefrei

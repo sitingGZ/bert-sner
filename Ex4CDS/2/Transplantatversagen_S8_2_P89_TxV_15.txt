@@ -1,0 +1,6 @@
+0	0	Eher
+5	1	schleichender
+19	2	Prozess.
+28	3	Stabile
+36	4	TX
+39	5	Funktion.

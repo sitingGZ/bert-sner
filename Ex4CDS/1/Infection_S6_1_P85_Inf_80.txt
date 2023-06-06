@@ -1,0 +1,17 @@
+0	0	Die
+4	1	neurogene
+14	2	Blasenentleerungsstoerung,
+40	3	der
+44	4	VUR,
+49	5	ESBL
+54	6	im
+57	7	Urin,
+63	8	de
+66	9	Selbstkatheterismus,
+87	10	Schieneneinlage
+103	11	im
+106	12	TX
+109	13	sind
+114	14	Hinweise
+123	15	auf
+127	16	Infektionskomplikationen.

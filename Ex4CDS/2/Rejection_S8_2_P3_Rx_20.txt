@@ -1,0 +1,7 @@
+0	0	Z.n.
+5	1	zell.
+11	2	Rejektion.
+22	3	Abfall
+29	4	der
+33	5	eGFR
+38	6	aktuell.

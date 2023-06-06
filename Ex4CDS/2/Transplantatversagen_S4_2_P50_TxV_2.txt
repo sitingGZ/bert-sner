@@ -1,0 +1,14 @@
+0	0	Tx
+3	1	vor
+7	2	3
+9	3	Monaten,
+18	4	Stabile
+26	5	Transplantatfuntion,
+47	6	Krea
+52	7	mit
+56	8	1,7
+60	9	auf
+64	10	niedrigstem
+76	11	Niveau
+83	12	seit
+88	13	Tx

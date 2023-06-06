@@ -1,0 +1,8 @@
+0	0	kontinuierliche
+16	1	BKV
+20	2	Infektion,
+31	3	Risiko
+38	4	fuer
+42	5	rezidiv.
+51	6	HWI,
+56	7	Infektanfaelligkeit

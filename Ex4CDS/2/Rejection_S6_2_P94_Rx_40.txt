@@ -1,0 +1,5 @@
+0	0	mehrfach
+9	1	zu
+12	2	niedrige
+21	3	Advagraf
+30	4	Spiegel.

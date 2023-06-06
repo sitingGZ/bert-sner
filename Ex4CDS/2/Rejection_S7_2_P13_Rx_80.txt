@@ -1,0 +1,8 @@
+0	0	DSA,
+5	1	PU,
+9	2	Patho
+15	3	Vorbefund
+25	4	hinweisend
+36	5	auf
+40	6	chron.
+47	7	Rj

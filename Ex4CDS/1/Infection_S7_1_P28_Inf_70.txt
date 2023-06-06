@@ -1,0 +1,10 @@
+0	0	Alter,
+7	1	Infektzeichen
+21	2	im
+24	3	Lab,
+29	4	CMV
+33	5	Risikokonstellation,
+54	6	Lymphozele/Haematom
+73	7	im
+76	8	Tx
+79	9	Bereich

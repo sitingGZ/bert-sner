@@ -1,0 +1,6 @@
+0	0	aktuell
+8	1	keine
+14	2	Beschwerden,
+27	3	niedriges
+37	4	Infektniveau,
+51	5	Lymphozelenproblematik

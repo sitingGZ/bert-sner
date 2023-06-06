@@ -1,0 +1,9 @@
+0	0	INfektneigung
+14	1	unter
+20	2	MM
+23	3	und
+27	4	Therapie
+36	5	mit
+40	6	BOrtezomib
+51	7	etwas
+57	8	erhoeht.

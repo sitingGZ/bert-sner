@@ -1,0 +1,14 @@
+0	0	Rezidivierende
+15	1	Infektionen
+27	2	(CMV,
+33	3	Colitis,
+42	4	HWI)
+47	5	in
+50	6	der
+54	7	Vergangenheit
+68	8	legen
+74	9	eine
+79	10	Praedisposition
+94	11	zur
+98	12	Infektneigung
+112	13	nahe.

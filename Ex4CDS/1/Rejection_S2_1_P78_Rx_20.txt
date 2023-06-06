@@ -1,0 +1,13 @@
+0	0	bei
+4	1	vor
+8	2	kurzem
+15	3	V.a.
+20	4	Rezidiv
+28	5	der
+32	6	GE
+35	7	und
+39	8	CNI-Tox
+47	9	jetzt
+53	10	Rejektion
+63	11	eher
+68	12	unwahrscheinlich

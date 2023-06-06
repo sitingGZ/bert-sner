@@ -1,0 +1,14 @@
+0	0	Stabil
+7	1	gute
+12	2	Tx
+15	3	Funktion,
+25	4	gute
+30	5	Spenderniere
+43	6	mit
+47	7	initial
+55	8	guter
+61	9	Primaerfunktion.
+77	10	Jedoch
+84	11	aktuell
+92	12	rez.
+97	13	Infekte.

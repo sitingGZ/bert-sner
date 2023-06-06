@@ -1,0 +1,14 @@
+0	0	Bisher
+7	1	keine
+13	2	Rejection,
+24	3	3MM,
+29	4	gute
+34	5	Spiegel
+42	6	der
+46	7	IS,
+50	8	Belatacept
+61	9	damit
+67	10	gesicherte
+78	11	Applikation
+90	12	der
+94	13	IS

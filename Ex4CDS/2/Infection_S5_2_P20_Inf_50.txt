@@ -1,0 +1,5 @@
+0	0	wdh
+4	1	rezidiv.
+13	2	HWI,
+18	3	CMV
+22	4	Viraemie

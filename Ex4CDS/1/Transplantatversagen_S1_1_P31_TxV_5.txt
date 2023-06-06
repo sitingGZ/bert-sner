@@ -1,0 +1,11 @@
+0	0	Chronisch
+10	1	Humorale
+19	2	Rejction
+28	3	bei
+32	4	stabilem
+41	5	Kreatinin,
+52	6	schneller
+62	7	Tx
+65	8	verlust
+73	9	eher
+78	10	unwahscheinlich.

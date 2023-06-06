@@ -1,0 +1,12 @@
+0	0	Kein
+5	1	klinischer
+16	2	Anhalt
+23	3	auf
+27	4	Infekt,
+35	5	letzter
+43	6	Infekt
+50	7	2017
+55	8	also
+60	9	vor
+64	10	einem
+70	11	Jahr.

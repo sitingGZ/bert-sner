@@ -1,0 +1,17 @@
+0	0	prog
+5	1	akut
+10	2	auf
+14	3	chronischer
+26	4	Kreaanstieg,
+39	5	Zeichen
+47	6	eines
+53	7	Nierenversagens
+69	8	schon
+75	9	seit
+80	10	ca
+83	11	12
+86	12	Monaten
+94	13	(Elytstrg,
+105	14	Phosphaterhoehung,
+123	15	Hst
+127	16	erhoehung)

@@ -1,0 +1,6 @@
+0	0	Diarrhoen
+10	1	seit
+15	2	Monaten,
+24	3	HWI
+28	4	Risiko
+35	5	erhoeht

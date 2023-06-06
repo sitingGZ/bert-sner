@@ -1,0 +1,17 @@
+0	0	stabile
+8	1	TX
+11	2	Funktion,
+21	3	keine
+27	4	Rejektionen
+39	5	(bis
+44	6	auf
+48	7	2003
+53	8	BANFF
+59	9	1a
+62	10	kurz
+67	11	nach
+72	12	TX),
+77	13	keine
+83	14	PU,
+87	15	keine
+93	16	HLA

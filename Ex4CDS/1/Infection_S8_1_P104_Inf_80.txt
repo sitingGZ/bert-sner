@@ -1,0 +1,4 @@
+0	0	Crp
+4	1	bereits
+12	2	knapp
+18	3	50

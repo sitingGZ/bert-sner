@@ -1,0 +1,14 @@
+0	0	nicht
+6	1	sehr
+11	2	hoch,
+17	3	da
+20	4	nicht
+26	5	von
+30	6	einer
+36	7	Ueberimmunsuppression
+57	8	auszugehen
+68	9	ist
+72	10	bei
+76	11	niedrigen
+86	12	Advagraf
+95	13	Spiegeln.

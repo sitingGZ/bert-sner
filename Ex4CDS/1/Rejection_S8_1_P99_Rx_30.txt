@@ -1,0 +1,8 @@
+0	0	DSA,
+5	1	Zunahme
+13	2	Proteinurie,
+26	3	allerdings
+37	4	neulich
+45	5	Biopsie
+53	6	ohne
+58	7	Rejektion

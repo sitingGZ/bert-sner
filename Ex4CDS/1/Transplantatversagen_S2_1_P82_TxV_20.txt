@@ -1,0 +1,6 @@
+0	0	stabile
+8	1	Tx
+11	2	Funktion
+20	3	mit
+24	4	guter
+30	5	Baseline

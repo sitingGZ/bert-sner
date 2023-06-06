@@ -1,0 +1,16 @@
+0	0	DSA
+4	1	plus
+9	2	hohe
+14	3	PU.
+18	4	Keine
+24	5	Rejectionsbehandlung.
+46	6	Tx
+49	7	Verlust
+57	8	im
+60	9	naechsten
+69	10	Jahr
+74	11	wahrscheinlich
+89	12	unwahrscheinlicher
+108	13	in
+111	14	3
+113	15	Monaten

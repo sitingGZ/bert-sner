@@ -1,0 +1,16 @@
+0	0	Rezidivierende
+15	1	Infekte
+23	2	und
+27	3	sanierungsbeduerftiges
+49	4	Gebiss
+55	5	sowie
+61	6	Diabetes
+70	7	mellitus
+79	8	als
+83	9	GE
+86	10	weisen
+93	11	auf
+97	12	eine
+102	13	erhoehte
+110	14	Infektanfaelligkeit
+129	15	hin.

@@ -1,0 +1,15 @@
+0	0	tx
+3	1	vor
+7	2	7
+9	3	Jahren,
+17	4	5
+19	5	MM,
+23	6	zellulaere
+33	7	Rejektion
+43	8	vor
+47	9	3
+49	10	Jahren,
+57	11	Konstant
+66	12	langsam
+74	13	steigendes
+85	14	Krea

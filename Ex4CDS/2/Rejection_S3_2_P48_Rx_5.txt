@@ -1,0 +1,10 @@
+0	0	gute
+5	1	NTX
+9	2	Funktion,
+19	3	Tac
+23	4	immer
+29	5	im
+32	6	Zielbereich,
+45	7	keine
+51	8	wesentliche
+63	9	Proteinurie

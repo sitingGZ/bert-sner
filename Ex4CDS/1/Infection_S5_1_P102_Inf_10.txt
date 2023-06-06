@@ -1,0 +1,3 @@
+0	0	keine
+6	1	rediziv.
+15	2	Infekte

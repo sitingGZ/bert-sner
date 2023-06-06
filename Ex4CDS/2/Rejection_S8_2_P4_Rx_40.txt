@@ -1,0 +1,5 @@
+0	0	stattgehabte
+13	1	Rejektion
+23	2	vor
+27	3	kurzer
+34	4	Zeit

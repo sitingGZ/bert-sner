@@ -1,0 +1,9 @@
+0	0	Fuehrer
+7	1	Zeitpunkt
+17	2	nach
+22	3	NTx
+26	4	mit
+30	5	bis
+34	6	hierhin
+42	7	gutem
+48	8	Verlauf.

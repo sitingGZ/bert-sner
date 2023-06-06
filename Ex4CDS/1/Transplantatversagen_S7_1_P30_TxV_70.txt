@@ -1,0 +1,11 @@
+0	0	Rejektion
+10	1	in
+13	2	der
+17	3	Vorgeschichte,
+32	4	bekannte
+41	5	DSA,
+46	6	zunehmende
+57	7	PU,
+61	8	bekannte
+70	9	CNI
+74	10	Tox

@@ -1,0 +1,5 @@
+0	0	Alter,
+7	1	Begleiterkrankungen,
+28	2	unzureichende
+42	3	Tx
+45	4	Funktion

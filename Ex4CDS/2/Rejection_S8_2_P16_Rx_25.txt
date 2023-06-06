@@ -1,0 +1,3 @@
+0	0	Abfall
+7	1	der
+11	2	eGFR.

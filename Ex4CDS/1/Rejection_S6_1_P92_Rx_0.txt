@@ -1,0 +1,11 @@
+0	0	Bei
+4	1	anhaltend
+14	2	guter
+20	3	Compliance
+31	4	sehe
+36	5	ich
+40	6	kein
+45	7	Risiko
+52	8	fuer
+56	9	eine
+61	10	Rejektion.

@@ -1,0 +1,14 @@
+0	0	stabile
+8	1	Funktion,
+18	2	IS
+21	3	soll
+26	4	sogar
+32	5	reduziert
+42	6	werden,
+50	7	jedoch
+57	8	relativ
+65	9	hohe
+70	10	Proteinurie
+82	11	und
+86	12	Z.n.
+91	13	NTX-Versagem

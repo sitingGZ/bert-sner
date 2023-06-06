@@ -1,0 +1,4 @@
+0	0	Alter,
+7	1	Begleiterkranungen,
+27	2	hydrop.
+35	3	Dekompensation

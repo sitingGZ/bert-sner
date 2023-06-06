@@ -1,0 +1,6 @@
+0	0	Immunologisch
+14	1	stabil.
+22	2	Risikofaktoren
+37	3	kardial,
+46	4	DM
+49	5	usw

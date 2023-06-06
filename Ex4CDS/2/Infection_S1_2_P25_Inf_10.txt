@@ -1,0 +1,11 @@
+0	0	wenig
+6	1	Infekt
+13	2	Probleme
+22	3	in
+25	4	der
+29	5	Vergangenheit
+43	6	aber
+48	7	alt
+52	8	und
+56	9	neuer
+62	10	Diabetes.

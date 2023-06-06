@@ -1,0 +1,10 @@
+0	0	Krea
+5	1	5,3
+9	2	und
+13	3	im
+16	4	Verlauf
+24	5	die
+28	6	Info
+33	7	"Studienausschlus
+51	8	bei
+55	9	Rx"

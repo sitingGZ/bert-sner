@@ -1,0 +1,7 @@
+0	0	chronische
+11	1	Schaedigung,
+23	2	BKv,
+28	3	aktuell
+36	4	evtl.
+42	5	zusaetzliches
+55	6	RJ

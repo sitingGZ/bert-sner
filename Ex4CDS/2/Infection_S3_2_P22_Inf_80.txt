@@ -1,0 +1,7 @@
+0	0	Leukozytose,
+13	1	CRP
+17	2	Erhoeht,
+25	3	Klinik
+32	4	spricht
+40	5	fuer
+44	6	Infektion

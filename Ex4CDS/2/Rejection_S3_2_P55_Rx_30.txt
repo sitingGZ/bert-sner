@@ -1,0 +1,16 @@
+0	0	schwankende
+12	1	Spiegel
+20	2	IS,
+24	3	IMPDH
+30	4	niedrig
+38	5	mit
+42	6	V.a.
+47	7	nicht-Einnahme,
+63	8	jedoch
+70	9	mit
+74	10	PJP
+78	11	Pneumonie
+88	12	eher
+93	13	Zeichen
+101	14	einer
+107	15	Ueberimmunsupression

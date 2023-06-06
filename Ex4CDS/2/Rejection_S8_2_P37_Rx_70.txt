@@ -1,0 +1,5 @@
+0	0	chronisch
+10	1	humorale
+19	2	Rejektion
+29	3	unter
+35	4	Therapie

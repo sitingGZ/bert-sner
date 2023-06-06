@@ -1,0 +1,7 @@
+0	0	Aktuell
+8	1	kein
+13	2	Anhalt
+20	3	fuer
+24	4	Infekt
+31	5	oder
+36	6	Infektrisiko.

@@ -1,0 +1,7 @@
+0	0	klinisch
+9	1	und
+13	2	im
+16	3	Labor
+22	4	zuletzt
+30	5	kein
+35	6	Infektgeschehen

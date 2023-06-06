@@ -1,0 +1,6 @@
+0	0	Bisher
+7	1	noch
+12	2	nie
+16	3	eine
+21	4	Rejektion
+31	5	gehabt.

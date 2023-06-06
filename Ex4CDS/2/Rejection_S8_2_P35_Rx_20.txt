@@ -1,0 +1,6 @@
+0	0	Leicht
+7	1	erhoehtes
+16	2	Risiko
+23	3	wegen
+29	4	der
+33	5	SS.

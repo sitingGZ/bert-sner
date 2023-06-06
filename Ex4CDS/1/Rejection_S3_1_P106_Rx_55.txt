@@ -1,0 +1,12 @@
+0	0	Hinweise
+9	1	auf
+13	2	non-compliance,
+29	3	aber
+34	4	Krea
+39	5	wieder
+46	6	fallend,
+55	7	Krea
+60	8	um
+63	9	die
+67	10	2
+69	11	Baseline

@@ -1,0 +1,9 @@
+0	0	COPD
+5	1	und
+9	2	Bronchitis
+20	3	und
+24	4	Leukozyturie
+37	5	als
+41	6	Gruende
+48	7	fuer
+52	8	Infekt

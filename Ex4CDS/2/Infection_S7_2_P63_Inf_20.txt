@@ -1,0 +1,14 @@
+0	0	klinisch
+9	1	und
+13	2	im
+16	3	Lab.
+21	4	kein
+26	5	Hinweis
+34	6	fuer
+38	7	akuten
+45	8	Infekt,
+53	9	Gicht
+59	10	in
+62	11	der
+66	12	juengeren
+75	13	Vergangenheit

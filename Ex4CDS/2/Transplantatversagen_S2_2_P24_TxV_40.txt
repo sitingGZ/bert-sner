@@ -1,0 +1,5 @@
+0	0	Tx
+3	1	Funktion
+12	2	seit
+17	3	Transplantation
+33	4	schlecht

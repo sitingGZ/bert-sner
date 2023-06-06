@@ -1,0 +1,4 @@
+0	0	Krea
+5	1	Baseline,
+15	2	ruecklaeufige
+27	3	Proteinurie

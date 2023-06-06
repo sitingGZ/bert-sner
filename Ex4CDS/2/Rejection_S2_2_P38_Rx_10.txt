@@ -1,0 +1,8 @@
+0	0	Z.n.
+5	1	Ntx
+9	2	vor
+13	3	1
+15	4	Monat,
+22	5	Kreatinin
+32	6	noch
+37	7	fallend

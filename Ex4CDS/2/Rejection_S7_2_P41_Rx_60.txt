@@ -1,0 +1,14 @@
+0	0	hydropische
+12	1	Dekompensation,
+28	2	Tx
+31	3	Versagen
+40	4	in
+43	5	der
+47	6	Vorgeschichte,
+62	7	Rejektionen
+74	8	in
+77	9	der
+81	10	Vorgeschichte,
+96	11	PU,
+100	12	Umstellung
+111	13	IS

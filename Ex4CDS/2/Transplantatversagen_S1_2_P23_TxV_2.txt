@@ -1,0 +1,5 @@
+0	0	primaer
+7	1	guter
+13	2	Verlauf
+21	3	nach
+26	4	TX
