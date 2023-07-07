@@ -1,5 +1,4 @@
 datasets==2.8.0
-grpcio==1.51.1
 h5py==3.8.0
 huggingface-hub==0.12.0
 joblib==1.2.0
