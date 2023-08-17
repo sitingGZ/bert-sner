@@ -36,7 +36,7 @@ https://huggingface.co/sitingGZ/german-bert-clinical-ner/tree/main
 
     words = "Aktuell Infekt mit Nachweis von E Coli und Pseudomonas im TBS- CRP 99mg/dl".split()
     words_list = [words]
-    heatmaps, ner_results = final_label_results_rescaled(words_list, tokenizer, berst_sner, suggested_terms, threshold=0.5)
+    heatmaps, ner_results = final_label_results_rescaled(words_list, tokenizer, bert_sner, suggested_terms, threshold=0.5)
     
     
     
